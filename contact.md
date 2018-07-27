@@ -6,11 +6,11 @@ title: Contact rifkifau
 <div id="contact">
   <h1 class="pageTitle">Contact Me</h1>
   <div class="contactContent">
-    <p class="intro">This is an example Contact page. If you want to make changes then do so in the <code>contact.html</code> file.</p>
-    <p>The form is provided by <a href="http://formspree.io/">Formspree.</a> Follow the directions on their site to set up the form for use.</p>
-    <p>If you have questions about the theme feel free to <a href="mailto:brimaidesigns@gmail.com">email me</a> or create an issue on <a href="https://github.com/brianmaierjr/long-haul">GitHub</a>. Enjoy!</p>
+    <p class="intro">Ini adalah halaman contact. Sengaja dipertegas ulang, barangkali ada yang sampai ke sini cuma gara-gara nyasar.</p>
+    <p>Apapun yang kamu tulis dan kirim lewat form di samping ini, akan langsung masuk ke 'kulkas'nya si rifkifau. Keterlaluan sih kalau belum tahu siapa itu si rifkifau, tapi kalau emang belum kenal mampir dulu <a href="https://rifkifau.github.io/about">ke sini</a> yak</p>
+    <p>Pokoknya apapun yang pengen kamu sampaikan ke rifkifau, ketik aja lalu kirim. Nggak usah sungkan. Enjoy!</p>
   </div>
-  <form action="http://formspree.io/your@mail.com" method="POST">
+  <form action="http://formspree.io/rifkifau@gmail.com" method="POST">
     <label for="name">Name</label>
     <input type="text" id="name" name="name" class="full-width"><br>
     <label for="email">Email Address</label>

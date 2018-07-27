@@ -6,19 +6,15 @@ title: About rifkifau
 <div class="post">
 	<h1 class="pageTitle">About rifkifau</h1>
 	<img src="{{ '/assets/img/malioboro.jpg' | prepend: site.baseurl }}" alt="">
-	<p class="intro">Long Haul is a minimal, long form <a href="http://jekyllrb.com">Jekyll</a> Theme. It can be used as is or customized to your hearts desire.</p>
-	<p>Long Haul was created in honor of all the hard working touring bicycles that have traversed the globe time and time again. Take it for a spin.</p>
-	<h2>Features</h2>
+	<p class="intro">Singkatnya, rifkifau adalah seorang pria jebolan salah satu kampus di Yogyakarta. Fokus studinya yang ditempuh selama hampir 5 tahun adalah Kartografi, Pengenderaan Jauh, dan Sistem Informasi Geografis.</p>
+	<p>Kemudian menemukan minatnya di dunia WebGIS. Sejauh ini cukup paham dengan Geoserver, Geonode, MS4W, Arcgis Server, Leaflet Js, Openlayers, ArcGIS API for Javascript, Google Map API, PostGIS/PostgreSQL, dan SQL Server..</p>
+	<h2>Portofolio</h2>
 	<ul>
-		<li>Built with SASS + GULP + BROWSERSYNC + AUTOPREFIXER</li>
-  		<li>SVG Social Icons from <a href="http://customizr.net/icons/">Customizr</a></li>
-  		<li><a href="http://responsive-nav.com/">Responsive Nav Menu</a></li>
-  		<li><a href="https://github.com/snaptortoise/jekyll-rss-feeds">XML Feed for RSS Readers</a></li>
-  		<li>Contact Form via <a href="http://formspree.io/">Formspree</a></li>
-      <li>5 Post Loop with excerpt on Home Page</li>
-  		<li>Previous / Next Post Navigation</li>
-      <li>Estimated Reading Time for posts</li>
-  		<li><a href="https://github.com/adobe-webplatform/dropcap.js">Drop Cap</a> on posts</li>
-  		<li><a href="http://typecast.com/blog/a-more-modern-scale-for-web-typography">A Better Type Scale</a></li>
+  		<li>WebBlog <a href="https://spasialkan.com">Spasialkan.com | Peta Digital & WebGIS Indonesia</a></li>
+  		<li><a href="https://3d.spasialkan.com">3D Animation Maps</a></li>
+  		<li><a href="https://anaglyph.spasialkan.com">Anaglyph Imagery</a></li>
+  		<li><a href="https://maps.spasialkan.com">Interactive WebGIS</a></li>
+  		<li>GIS Youtube Channel<a href="https://www.youtube.com/channel/UCTiE-IYGCZehFW43Vo7r03A">Mari Spasialkan!</li>
+  		<li>GitHub ini <a href="https://github.com/rifkifau">github.com/rifkifau</a></li>
   	</ul>
 </div>
