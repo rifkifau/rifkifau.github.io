@@ -11,15 +11,15 @@ title: Contact rifkifau
     <p>Teruntuk yang belum tahu siapa itu si rifkifau tapi pengen kenal bisa mampir dulu <a href="https://rifkifau.github.io/about">ke sini</a>. Ntar baru lanjut via email biar makin intim. Ckckck.</p>
 
   </div>
-  <form action="https://formspree.io/rifkifau@gmail.com" method="POST">
+  <form method="post" action="https://formspree.io/rifkifau@gmail.com" method="POST">
     <label for="name">Name</label>
-    <input type="text" id="name" name="name" class="full-width"><br>
+    <input type="text" id="name" name="name" placeholder="Name" class="full-width"><br>
     <label for="email">Email Address</label>
-    <input type="email" id="email" name="_replyto" class="full-width"><br>
+    <input type="email" id="email" name="_replyto" placeholder="Email" class="full-width"><br>
     <label for="_subject">Subject</label>
-    <input type="text" id="_subject" name="_subject" class="full-width"><br>
+    <input type="text" id="_subject" name="_subject" placeholder="Subject" class="full-width"><br>
     <label for="message">Message</label>
-    <textarea name="message" id="message" cols="30" rows="10" class="full-width"></textarea><br>
+    <textarea name="message" id="message" cols="30" rows="10" placeholder="Message" class="full-width"></textarea><br>
     <input type="submit" value="Send" class="button">
   </form>
 </div>
