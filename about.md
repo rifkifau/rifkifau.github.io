@@ -7,8 +7,8 @@ title: About rifkifau
 	<h1 class="pageTitle">About rifkifau</h1>
 	<img src="{{ '/assets/img/malioboro.jpg' | prepend: site.baseurl }}" alt="">
 	<p class="intro">Singkatnya, rifkifau adalah seorang pria jebolan salah satu kampus di Yogyakarta. Fokus studinya yang ditempuh selama hampir 5 tahun adalah Kartografi, Pengenderaan Jauh, dan Sistem Informasi Geografis.</p>
-	<p>Kemudian menemukan minatnya di dunia WebGIS. Sejauh ini cukup paham dengan Geoserver, Geonode, MS4W, Arcgis Server, Leaflet Js, Openlayers, ArcGIS API for Javascript, Google Map API, PostGIS/PostgreSQL, dan SQL Server.</p>
-	<p>Detail pengalamannya bisa dilihat di profil linkedinnya, <a href="https://www.linkedin.com/in/rifki-fauzi">lewat sini</a>.</p>
+	<p>Dipertengahan masa-masa kuliahnya, orang berjaket kuning yang nampak pada foto di atas mulai menemukan minatnya, yakni WebGIS. Sejauh ini, ngakunya sudah cukup paham dengan Geoserver, Geonode, MS4W, Arcgis Server, Leaflet Js, Openlayers, ArcGIS API for Javascript, Google Map API, PostGIS/PostgreSQL, dan SQL Server.</p>
+	<p>Detail pengalamannya bisa dilihat langsung di profil linkedinnya, <a href="https://www.linkedin.com/in/rifki-fauzi">lewat sini</a>.</p>
 	<h2>Portofolio</h2>
 	<ul>
   		<li>WebBlog <a href="https://spasialkan.com">Spasialkan.com | Peta Digital & WebGIS Indonesia</a></li>
