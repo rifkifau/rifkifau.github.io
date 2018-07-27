@@ -15,7 +15,7 @@ title: About rifkifau
   		<li><a href="https://3d.spasialkan.com">3D Animation Maps</a></li>
   		<li><a href="https://anaglyph.spasialkan.com">Anaglyph Imagery</a></li>
   		<li><a href="https://maps.spasialkan.com">Interactive WebGIS</a></li>
-  		<li>GIS Youtube Channel<a href="https://www.youtube.com/channel/UCTiE-IYGCZehFW43Vo7r03A">Mari Spasialkan!</li>
+  		<li>GIS Youtube Channel<a href="https://www.youtube.com/channel/UCTiE-IYGCZehFW43Vo7r03A">Mari Spasialkan!</a></li>
   		<li>GitHub ini <a href="https://github.com/rifkifau">github.com/rifkifau</a></li>
   	</ul>
 </div>
