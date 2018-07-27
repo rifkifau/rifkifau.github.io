@@ -11,7 +11,7 @@ title: Contact rifkifau
     <p>Teruntuk yang belum tahu siapa itu si rifkifau tapi pengen kenal bisa mampir dulu <a href="https://rifkifau.github.io/about">ke sini</a>. Ntar baru lanjut via email biar makin intim. Ckckck.</p>
 
   </div>
-  <form action="http://formspree.io/rifkifau@gmail.com" method="POST">
+  <form action="https://formspree.io/rifkifau@gmail.com" method="POST">
     <label for="name">Name</label>
     <input type="text" id="name" name="name" class="full-width"><br>
     <label for="email">Email Address</label>
