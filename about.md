@@ -15,7 +15,12 @@ title: About rifkifau
   		<li><a href="https://3d.spasialkan.com">3D Animation Maps</a></li>
   		<li><a href="https://anaglyph.spasialkan.com">Anaglyph Imagery</a></li>
   		<li><a href="https://maps.spasialkan.com">Interactive WebGIS</a></li>
-  		<li>GIS Youtube Channel<a href="https://www.youtube.com/channel/UCTiE-IYGCZehFW43Vo7r03A">Mari Spasialkan!</a></li>
+  		<li>GIS Youtube Channel <a href="https://www.youtube.com/channel/UCTiE-IYGCZehFW43Vo7r03A">Mari Spasialkan!</a></li>
   		<li>GitHub ini <a href="https://github.com/rifkifau">github.com/rifkifau</a></li>
+			<li>Hasil Skripsi <a href="https://rifkifau.github.io/skripsi">Citra Anaglip Multiskala untuk Kajian Bentuklahan</a></li>
+			<li>Klasifikasi dan Simbolisasi <a href="https://github.com/belajar-geostats">Visualisasi Kalimantan Tengah</a></li>
+			<li>Cluster Chart <a href="https://rifkifau.github.io/webgis-cluster-chart">Sebaran Sekolah di Indonesia</a></li>
+			<li>Cooming Soon</li>
+
   	</ul>
 </div>
