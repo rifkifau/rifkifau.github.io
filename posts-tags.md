@@ -3,12 +3,14 @@ layout: default
 title: Posts Tags
 ---
 
+<div class="tags-expo">
+  <div class="tags-expo-list">
     {% for tag in site.tags %}
     <a href="#{{ tag[0] | slugify }}" class="post-tag">{{ tag[0] }}</a>
     {% endfor %}
-
+  </div>
   <hr/>
-
+  <div class="tags-expo-section">
     {% for tag in site.tags %}
     <h2 id="{{ tag[0] | slugify }}">{{ tag[0] }}</h2>
     <ul class="tags-expo-posts">
@@ -22,3 +24,5 @@ title: Posts Tags
       {% endfor %}
     </ul>
     {% endfor %}
+  </div>
+</div>
