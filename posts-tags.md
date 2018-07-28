@@ -3,29 +3,67 @@ layout: default
 title: Posts Tags
 ---
 
-<!-- Listing all Tags -->
-<ul class="tags">
-{% for tag in site.tags %}
-  {% assign t = tag | first %}
-  {% assign posts = tag | last %}
-  <li>{{t | downcase | replace:" ","-" }} has {{ posts | size }} posts</li>
+{% comment %}
+=======================
+The following part extracts all the tags from your posts and sort tags, so that you do not need to manually collect your tags to a place.
+=======================
+{% endcomment %}
+{% assign rawtags = "" %}
+{% for post in site.posts %}
+	{% assign ttags = post.tags | join:'|' | append:'|' %}
+	{% assign rawtags = rawtags | append:ttags %}
 {% endfor %}
-</ul>
+{% assign rawtags = rawtags | split:'|' | sort %}
 
-<!-- Listing all Tags and the posts containing that Tag -->
-{% for tag in site.tags %}
-  {% assign t = tag | first %}
-  {% assign posts = tag | last %}
-
-{{ t | downcase }}
-<ul>
-{% for post in posts %}
-  {% if post.tags contains t %}
-  <li>
-    <a href="{{ post.url }}">{{ post.title }}</a>
-    <span class="date">{{ post.date | date: "%B %-d, %Y"  }}</span>
-  </li>
-  {% endif %}
+{% comment %}
+=======================
+The following part removes dulpicated tags and invalid tags like blank tag.
+=======================
+{% endcomment %}
+{% assign tags = "" %}
+{% for tag in rawtags %}
+	{% if tag != "" %}
+		{% if tags == "" %}
+			{% assign tags = tag | split:'|' %}
+		{% endif %}
+		{% unless tags contains tag %}
+			{% assign tags = tags | join:'|' | append:'|' | append:tag | split:'|' %}
+		{% endunless %}
+	{% endif %}
 {% endfor %}
-</ul>
+
+{% comment %}
+=======================
+The purpose of this snippet is to list all the tags you have in your site.
+=======================
+{% endcomment %}
+{% for tag in tags %}
+	<a href="#{{ tag | slugify }}"> {{ tag }} </a>
+{% endfor %}
+
+
+{% comment %}
+=======================
+The purpose of this snippet is to list all your posts posted with a certain tag.
+=======================
+{% endcomment %}
+{% for tag in tags %}
+	<h2 id="{{ tag | slugify }}">{{ tag }}</h2>
+	<ul>
+	 {% for post in site.posts %}
+		 {% if post.tags contains tag %}
+		 <li>
+		 <h3>
+		 <a href="{{ post.url }}">
+		 {{ post.title }}
+		 <small>{{ post.date | date_to_string }}</small>
+		 </a>
+		 {% for tag in post.tags %}
+			 <a class="tag" href="/blog/tag/#{{ tag | slugify }}">{{ tag }}</a>
+		 {% endfor %}
+		 </h3>
+		 </li>
+		 {% endif %}
+	 {% endfor %}
+	</ul>
 {% endfor %}
