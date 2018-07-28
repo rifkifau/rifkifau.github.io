@@ -18,6 +18,8 @@ navigation:
    url: /about
  - title: Contact
    url: /contact
+ - title: Posts-tags
+   url: /posts-tags
 
 social:
    github: rifkifau

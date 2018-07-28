@@ -2,6 +2,8 @@
 layout: post
 title:  "Cara Download Peta Rupabumi Indonesia (RBI) BIG"
 date:   2018-02-07
+tags:   [ Video Tutorial, peta, RBI, BIG, Indonesia ]
+
 ---
 
 

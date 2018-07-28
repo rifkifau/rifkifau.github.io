@@ -2,6 +2,8 @@
 layout: post
 title:  "Cara Membuat Peta Simbol Diagram (Lingkaran/Pie & Histogram) di QGIS"
 date:   2018-01-30
+tags:   [ Video Tutorial, peta, simbol, diagram, qgis ]
+
 ---
 
 

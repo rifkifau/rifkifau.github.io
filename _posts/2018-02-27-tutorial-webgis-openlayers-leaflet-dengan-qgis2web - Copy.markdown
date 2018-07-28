@@ -2,6 +2,8 @@
 layout: post
 title:  "Tutorial WebGIS Openlayers & leafletJS dengan QGIS2Web"
 date:   2018-02-27
+tags:   [ Video Tutorial, webgis, openlayers, leafletjs, qgis ]
+
 ---
 
 

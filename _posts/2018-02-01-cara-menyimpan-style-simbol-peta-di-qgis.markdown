@@ -2,6 +2,8 @@
 layout: post
 title:  "Cara Menyimpan Style Simbol Layer QGIS (qml, sld, qlr)"
 date:   2018-02-01
+tags:   [ Video Tutorial, simbol, peta, qgis ]
+
 ---
 
 

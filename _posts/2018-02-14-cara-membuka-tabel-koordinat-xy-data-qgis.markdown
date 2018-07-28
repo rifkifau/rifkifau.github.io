@@ -2,6 +2,8 @@
 layout: post
 title:  "Cara Membuka Tabel Koordinat (Add & Display XY Data) di QGIS"
 date:   2018-02-14
+tags:   [ Video Tutorial, XY data, Koordinat, qgis ]
+
 ---
 
 

@@ -2,6 +2,8 @@
 layout: post
 title:  "How To Download OpenStreetMap (OSM) Spatial Data"
 date:   2018-03-01
+tags:   [ Video Tutorial, download, osm, openstreetmap, data ]
+
 ---
 
 

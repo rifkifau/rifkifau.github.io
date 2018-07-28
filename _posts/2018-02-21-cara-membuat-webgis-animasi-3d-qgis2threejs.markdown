@@ -2,6 +2,8 @@
 layout: post
 title:  "Cara Membuat WebGIS Animasi 3 Dimensi QGIS2ThreeJS"
 date:   2018-02-21
+tags:   [ Video Tutorial, webgis, webmap, animasi 3d, qgis ]
+
 ---
 
 
