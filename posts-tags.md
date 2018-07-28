@@ -9,7 +9,7 @@ to the `site_tags` variable. -->
 <!-- `tag_words` is a sorted array of the tag names. -->
 {% assign tag_words = site_tags | split:',' | sort %}
 <!-- List of all tags -->
-<ul class="tags">
+<small>
   {% for item in (0..site.tags.size) %}{% unless forloop.last %}
     {% capture this_word %}{{ tag_words[item] }}{% endcapture %}
     <li>
@@ -18,7 +18,7 @@ to the `site_tags` variable. -->
       </a>
     </li>
   {% endunless %}{% endfor %}
-</ul>
+<small>
 
 <!-- Posts by Tag -->
 <div>
