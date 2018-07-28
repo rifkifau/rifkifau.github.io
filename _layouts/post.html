@@ -14,10 +14,10 @@ layout: default
 
   <ul class="tags">
     {% for tag in page.tags %}
-      <li><a href="/tags#{{ tag }}" class="tag">{{ tag }}</a></li>
+      <li><a href="/posts-tags/#{{ tag }}" class="tag">{{ tag }}</a></li>
     {% endfor %}
   </ul>
-  
+
   <!-- POST NAVIGATION -->
   <div class="postNav clearfix">
     {% if page.previous.url %}
