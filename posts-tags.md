@@ -1,3 +1,18 @@
+---
+layout: default
+title: Posts Tags
+---
+
+<!-- Listing all Tags -->
+<ul class="tags">
+{% for tag in site.tags %}
+  {% assign t = tag | first %}
+  {% assign posts = tag | last %}
+  <li>{{t | downcase | replace:" ","-" }} has {{ posts | size }} posts</li>
+{% endfor %}
+</ul>
+
+<!-- Listing all Tags and the posts containing that Tag -->
 {% for tag in site.tags %}
   {% assign t = tag | first %}
   {% assign posts = tag | last %}
