@@ -18,7 +18,7 @@ to the `site_tags` variable. -->
       </a>
     </li>
   {% endunless %}{% endfor %}
-<small>
+</small>
 
 <!-- Posts by Tag -->
 <div>
