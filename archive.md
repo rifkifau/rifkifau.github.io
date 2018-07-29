@@ -1,15 +1,23 @@
 ---
 layout: default
-title: Posts Tags
+title: Archive
 ---
 
-<h2>Archive</h2>
-{% assign postsByYearMonth = site.posts | group_by_exp:"post", "post.date | date: '%Y %b'"  %}
-{% for yearMonth in postsByYearMonth %}
-  <h3>{{ yearMonth.name }}</h3>
-    <ul>
-      {% for post in yearMonth.items %}
-        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-      {% endfor %}
-    </ul>
-{% endfor %}
+<div class="post">
+	<h2>Archive</h2>
+	<ul>
+	  {% for post in site.posts %}
+	    {% unless post.next %}
+	      <h3>{{ post.date | date: '%Y %b' }}</h3>
+	    {% else %}
+	      {% capture year %}{{ post.date | date: '%Y %b' }}{% endcapture %}
+	      {% capture nyear %}{{ post.next.date | date: '%Y %b' }}{% endcapture %}
+	      {% if year != nyear %}
+	        <h3>{{ post.date | date: '%Y %b' }}</h3>
+	      {% endif %}
+	    {% endunless %}
+
+	    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+	  {% endfor %}
+	</ul>
+</div>
