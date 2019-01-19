@@ -84,4 +84,4 @@ Googling-googling tidak hanya membawa Ane pada solusi mengembalikan kapasitas fl
 <p>
 Setelah mencermati ulang video tutorial, ternyata didalam video tersebut tidak diperlihatkan keberhasilannya membuat bootable flashdisk menggunakan Etcher. Sial emang. Ini nih potongan videonya kalau belum percaya:
 </p>
-![berbagi pengalaman - etcher broke my usb - kembali normal](../../images/etcher/berbagi-pengalaman-etcher-broke-my-usb-potongan-video.gif)
+![berbagi pengalaman - etcher broke my usb - kembali normal](../../images/etcher/berbagi-pengalaman-etcher-broke-my-usb-potongan-video.mp4)
