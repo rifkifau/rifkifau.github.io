@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "#BerbagiPengalaman-2: Etcher Broke my USB Flashdisk (?)"
+title:  "#BagiPengalaman-2: Etcher Broke my USB Flashdisk (?)"
 date:   2019-01-19
 tags:   [ Berbagi, Pengalaman, Software, Hardware ]
 ---
