@@ -51,7 +51,7 @@ Setelah mencoba cara diatas, Alhamdulillah flashdisk kembali normal.
 Lega rasanya.
 </p>
 <p>
-Akhirnya kembali ke Rufus untuk membuat bootable flashdisk.
+Akhirnya memutuskan kembali ke Rufus untuk membuat bootable flashdisk.
 </p>
 <p>
 Tapi kemudian kembali lagi ke Etcher untuk menunjukkan bukti. Hehe. Soalnya pas tragedi itu belum terpikir bikin tulisan ini dan belum sempat screenshot.
@@ -59,14 +59,23 @@ Tapi kemudian kembali lagi ke Etcher untuk menunjukkan bukti. Hehe. Soalnya pas 
 <p>
 Dan berikut adalah bukti dari cerita diatas:
 </p>
-<p>
 
-** Tambahan
-</p>
+![berbagi pengalaman - etcher broke my usb - tampilan awal](https://user-images.githubusercontent.com/24805357/51428119-b5781880-1c32-11e9-98c0-8591037ee52b.jpg) Ini adalah tampilan awal dari software Etcher.
+
+![berbagi pengalaman - etcher broke my usb - flashing](https://user-images.githubusercontent.com/24805357/51428122-b741dc00-1c32-11e9-95df-d5fc44874862.jpg) Proses pembuatan bootable flashdisk tahap pertama: flashing.
+
+![berbagi pengalaman - etcher broke my usb - validating](https://user-images.githubusercontent.com/24805357/51428120-b610af00-1c32-11e9-97b0-7717e09c173c.jpg) Proses pembuatan bootable flashdisk tahap kedua: validating.
+
+![berbagi pengalaman - etcher broke my usb - flash complete failed device](https://user-images.githubusercontent.com/24805357/51428121-b6a94580-1c32-11e9-9ba1-8a0557f55131.jpg) Proses complete tapi failed.
+
+![berbagi pengalaman - etcher broke my usb - storage berkurang](https://user-images.githubusercontent.com/24805357/51428118-b5781880-1c32-11e9-9fb8-3064f1d6f882.jpg) Setelah dicek ukuran kapasitas flashdisk tinggal segini nih.
+
+![berbagi pengalaman - etcher broke my usb - kembali normal](https://user-images.githubusercontent.com/24805357/51428123-b741dc00-1c32-11e9-827b-b93f8cc1e2fb.jpg) Nah, untungnya masih bisa kembali normal.
+* Tambahan
+
 <p>
 Googling-googling tidak hanya membawa Ane pada solusi mengembalikan kapasitas flashdisk, tapi juga pada tutorial membuat bootable flashdisk tanpa software. Bisa ya? (haha gaptek emang). Dan beberapa langkah awal membuat bootable flashdisk tanpa software adalah dengan cara yang sama seperti mengembalikan kapasitas flashdisk. (Kalau bingung maksudnya silakan ulang-ulang saja membaca paragraf ini).
 </p>
 <p>
 Setelah mencermati ulang video tutorial, ternyata didalam video tersebut tidak diperlihatkan keberhasilannya membuat bootable flashdisk menggunakan Etcher. Sial emang. Ini nih potongan videonya kalau belum percaya:
 </p>
-<p>
