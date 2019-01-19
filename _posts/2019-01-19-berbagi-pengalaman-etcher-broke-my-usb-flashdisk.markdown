@@ -59,8 +59,8 @@ Tapi kemudian kembali lagi ke Etcher untuk menunjukkan bukti. Hehe. Soalnya pas 
 <p>
 Dan berikut adalah bukti dari cerita diatas:
 </p>
-
-![berbagi pengalaman - etcher broke my usb - tampilan awal](https://user-images.githubusercontent.com/24805357/51428119-b5781880-1c32-11e9-98c0-8591037ee52b.jpg) *Ini adalah tampilan awal dari software Etcher.*
+# *Ini adalah tampilan awal dari software Etcher.*
+![berbagi pengalaman - etcher broke my usb - tampilan awal](https://user-images.githubusercontent.com/24805357/51428119-b5781880-1c32-11e9-98c0-8591037ee52b.jpg)
 
 ![berbagi pengalaman - etcher broke my usb - flashing](https://user-images.githubusercontent.com/24805357/51428122-b741dc00-1c32-11e9-95df-d5fc44874862.jpg) *Proses pembuatan bootable flashdisk tahap pertama: flashing.*
 
