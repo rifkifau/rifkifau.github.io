@@ -68,10 +68,10 @@ Dan berikut adalah bukti dari cerita diatas:
 
 ![berbagi pengalaman - etcher broke my usb - flash complete failed device](https://user-images.githubusercontent.com/24805357/51428121-b6a94580-1c32-11e9-9ba1-8a0557f55131.jpg) *Proses complete tapi failed.*
 
-![berbagi pengalaman - etcher broke my usb - storage berkurang](https://user-images.githubusercontent.com/24805357/51428118-b5781880-1c32-11e9-9fb8-3064f1d6f882.jpg) *Setelah dicek ukuran kapasitas flashdisk tinggal segini nih.*
+<center>![berbagi pengalaman - etcher broke my usb - storage berkurang](https://user-images.githubusercontent.com/24805357/51428118-b5781880-1c32-11e9-9fb8-3064f1d6f882.jpg) </center>*Setelah dicek ukuran kapasitas flashdisk tinggal segini nih.*
 
 ![berbagi pengalaman - etcher broke my usb - kembali normal](https://user-images.githubusercontent.com/24805357/51428123-b741dc00-1c32-11e9-827b-b93f8cc1e2fb.jpg) *Nah, untungnya masih bisa kembali normal.*
-<p class="intro"> Tambahan </p>
+## Tambahan
 
 <p>
 Googling-googling tidak hanya membawa Ane pada solusi mengembalikan kapasitas flashdisk, tapi juga pada tutorial membuat bootable flashdisk tanpa software. Bisa ya? (haha gaptek emang). Dan beberapa langkah awal membuat bootable flashdisk tanpa software adalah dengan cara yang sama seperti mengembalikan kapasitas flashdisk. (Kalau bingung maksudnya silakan ulang-ulang saja membaca paragraf ini).
