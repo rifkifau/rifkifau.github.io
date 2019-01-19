@@ -80,6 +80,6 @@ Dan berikut adalah bukti dari cerita diatas:
 Googling-googling tidak hanya membawa Ane pada solusi mengembalikan kapasitas flashdisk, tapi juga pada tutorial membuat bootable flashdisk tanpa software. Bisa ya? (haha gaptek emang). Dan beberapa langkah awal membuat bootable flashdisk tanpa software adalah dengan cara yang sama seperti mengembalikan kapasitas flashdisk. (Kalau bingung maksudnya silakan ulang-ulang saja membaca paragraf ini).
 </p>
 <p>
-Setelah mencermati ulang video tutorial, ternyata didalam video tersebut tidak diperlihatkan keberhasilannya membuat bootable flashdisk menggunakan Etcher. Sial emang. Ini nih potongan videonya kalau belum percaya:
+Setelah mencermati ulang video tutorial, ternyata didalam video tersebut tidak diperlihatkan keberhasilannya membuat bootable flashdisk menggunakan Etcher. Sial emang. Ini nih potongan videonya kalau belum percaya (Sorry file GIF-nya agak berat untuk diload, sabar aja yak):
 </p>
-![berbagi pengalaman - etcher broke my usb - kembali normal](../../images/etcher/berbagi-pengalaman-etcher-broke-my-usb-potongan-video.mp4)
+![berbagi pengalaman - etcher broke my usb - kembali normal](../../images/etcher/berbagi-pengalaman-etcher-broke-my-usb-potongan-video.gif)
