@@ -57,7 +57,7 @@ Akhirnya memutuskan kembali ke Rufus untuk membuat bootable flashdisk.
 Tapi kemudian kembali lagi ke Etcher untuk menunjukkan bukti. Hehe. Soalnya pas tragedi itu belum terpikir bikin tulisan ini dan belum sempat screenshot.
 </p>
 
-### Dan berikut adalah bukti dari cerita diatas:
+#### Dan berikut adalah bukti dari cerita diatas:
 
 ##### *Ini adalah tampilan awal dari software Etcher.*
 ![berbagi pengalaman - etcher broke my usb - tampilan awal](https://user-images.githubusercontent.com/24805357/51428119-b5781880-1c32-11e9-98c0-8591037ee52b.jpg)
@@ -79,7 +79,7 @@ Tapi kemudian kembali lagi ke Etcher untuk menunjukkan bukti. Hehe. Soalnya pas 
 ##### *Nah, untungnya masih bisa kembali normal.*
 ![berbagi pengalaman - etcher broke my usb - kembali normal](https://user-images.githubusercontent.com/24805357/51428123-b741dc00-1c32-11e9-827b-b93f8cc1e2fb.jpg)
 
-### Tambahan
+#### Tambahan
 
 <p>
 Googling-googling tidak hanya membawa Ane pada solusi mengembalikan kapasitas flashdisk, tapi juga pada tutorial membuat bootable flashdisk tanpa software. Bisa ya? (haha gaptek emang). Dan beberapa langkah awal membuat bootable flashdisk tanpa software adalah dengan cara yang sama seperti mengembalikan kapasitas flashdisk. (Kalau bingung maksudnya silakan ulang-ulang saja membaca paragraf ini).
