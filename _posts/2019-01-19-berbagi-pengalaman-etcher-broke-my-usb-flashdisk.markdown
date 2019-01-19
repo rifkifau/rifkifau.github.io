@@ -71,7 +71,6 @@ Dan berikut adalah bukti dari cerita diatas:
 <p align="center">
   <img src="https://user-images.githubusercontent.com/24805357/51428118-b5781880-1c32-11e9-9fb8-3064f1d6f882.jpg">*Setelah dicek ukuran kapasitas flashdisk tinggal segini nih.*
 </p>
-<p style="text-align: center"> ![berbagi pengalaman - etcher broke my usb - storage berkurang](https://user-images.githubusercontent.com/24805357/51428118-b5781880-1c32-11e9-9fb8-3064f1d6f882.jpg) *Setelah dicek ukuran kapasitas flashdisk tinggal segini nih.*</p>
 
 ![berbagi pengalaman - etcher broke my usb - kembali normal](https://user-images.githubusercontent.com/24805357/51428123-b741dc00-1c32-11e9-827b-b93f8cc1e2fb.jpg) *Nah, untungnya masih bisa kembali normal.*
 
