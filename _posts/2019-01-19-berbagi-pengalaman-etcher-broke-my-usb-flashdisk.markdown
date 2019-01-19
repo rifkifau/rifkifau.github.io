@@ -57,7 +57,7 @@ Akhirnya memutuskan kembali ke Rufus untuk membuat bootable flashdisk.
 Tapi kemudian kembali lagi ke Etcher untuk menunjukkan bukti. Hehe. Soalnya pas tragedi itu belum terpikir bikin tulisan ini dan belum sempat screenshot.
 </p>
 <p>
-Dan berikut adalah bukti dari cerita diatas:
+## Dan berikut adalah bukti dari cerita diatas:
 </p>
 # *Ini adalah tampilan awal dari software Etcher.*
 ![berbagi pengalaman - etcher broke my usb - tampilan awal](https://user-images.githubusercontent.com/24805357/51428119-b5781880-1c32-11e9-98c0-8591037ee52b.jpg)
