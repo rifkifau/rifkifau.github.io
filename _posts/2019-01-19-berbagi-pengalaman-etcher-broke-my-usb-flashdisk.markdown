@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "#BerbagiPengalaman-2: Etcher Broke my USB Flashdisk (?)"
-date:   2018-08-29
+date:   2019-01-19
 tags:   [ Berbagi, Pengalaman, Software, Hardware ]
 ---
 <p class="intro"><span class="dropcap">S</span>ore itu, sekitar habis Asar, langit Yogyakarta tampak gelap. Suara rintik hujan mulai terdengar dari dalam rumah. Ya, cukup syahdulah kalau mau ngegalau-galau ria. Tapi untungnya waktu itu tidak Ane lakukan.
@@ -15,6 +15,7 @@ Rencananya sih waktu itu mau install Ubuntu 18.04 di laptop lawas yang emang sud
 <p>
 Nah, dari video tutorial yang Ane tonton tersebut, ada satu hal yang jujur  belum pernah Ane tau sebelumnya. Sebagai netizen yang biasa menggunakan Rufus untuk membuat bootable USB flashdisk, Ane kaget ketika di video tersebut yang dipakai adalah Etcher. Ya nama softwarenya Etcher, sebuah project opensource buatan balena. Ini nih linknya:
 </p>
+![berbagi pengalaman - etcher broke my usb - download dan install](https://user-images.githubusercontent.com/24805357/51428033-6c739480-1c31-11e9-906e-474c82628cc0.jpg)
 <p>
 Mulailah timbul ketertarikan untuk mencoba software tersebut. Ukuran file installernya nyaris 70 MB waktu itu (versi 1.4.9). Memang jauh sih kalau dibandingkan dengan Rufus yang hanya sekitar 1 MB (versi 3.4.1430). Blablabla, sampai akhirnya Etcher pun terinstall di laptop.
 </p>
@@ -42,6 +43,7 @@ Tambah panik dong. Sampai berungkali diformat ukurannya tetap jauh lebih kecil d
 <p>
 Tapi, apakah benar Etcher ini software yang merusak flashdisk? Googling-googling pun dilakukan, sampai akhirnya nemu cara ini di askubuntu.com:
 </p>
+![berbagi pengalaman - etcher broke my usb - solusi](https://user-images.githubusercontent.com/24805357/51428048-ad6ba900-1c31-11e9-9ba6-2c0d05746252.jpg)
 <p>
 Setelah mencoba cara diatas, Alhamdulillah flashdisk kembali normal.
 </p>
