@@ -1162,8 +1162,6 @@ CONTACT PAGE STYLING
     /***************
   CENTER IMAGE
   ***************/
-    .center-image
-    {
-        margin: 0 auto;
-        display: block;
-    }
+  .center-gambar {
+      text-align: center;
+  }
