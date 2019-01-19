@@ -57,24 +57,29 @@ Akhirnya memutuskan kembali ke Rufus untuk membuat bootable flashdisk.
 Tapi kemudian kembali lagi ke Etcher untuk menunjukkan bukti. Hehe. Soalnya pas tragedi itu belum terpikir bikin tulisan ini dan belum sempat screenshot.
 </p>
 
-## Dan berikut adalah bukti dari cerita diatas:
+### Dan berikut adalah bukti dari cerita diatas:
 
-### *Ini adalah tampilan awal dari software Etcher.*
+##### *Ini adalah tampilan awal dari software Etcher.*
 ![berbagi pengalaman - etcher broke my usb - tampilan awal](https://user-images.githubusercontent.com/24805357/51428119-b5781880-1c32-11e9-98c0-8591037ee52b.jpg)
 
-![berbagi pengalaman - etcher broke my usb - flashing](https://user-images.githubusercontent.com/24805357/51428122-b741dc00-1c32-11e9-95df-d5fc44874862.jpg) *Proses pembuatan bootable flashdisk tahap pertama: flashing.*
+##### *Proses pembuatan bootable flashdisk tahap pertama: flashing.*
+![berbagi pengalaman - etcher broke my usb - flashing](https://user-images.githubusercontent.com/24805357/51428122-b741dc00-1c32-11e9-95df-d5fc44874862.jpg)
 
-![berbagi pengalaman - etcher broke my usb - validating](https://user-images.githubusercontent.com/24805357/51428120-b610af00-1c32-11e9-97b0-7717e09c173c.jpg) *Proses pembuatan bootable flashdisk tahap kedua: validating.*
+##### *Proses pembuatan bootable flashdisk tahap kedua: validating.*
+![berbagi pengalaman - etcher broke my usb - validating](https://user-images.githubusercontent.com/24805357/51428120-b610af00-1c32-11e9-97b0-7717e09c173c.jpg)
 
-![berbagi pengalaman - etcher broke my usb - flash complete failed device](https://user-images.githubusercontent.com/24805357/51428121-b6a94580-1c32-11e9-9ba1-8a0557f55131.jpg) *Proses complete tapi failed.*
+##### *Proses complete tapi failed.*
+![berbagi pengalaman - etcher broke my usb - flash complete failed device](https://user-images.githubusercontent.com/24805357/51428121-b6a94580-1c32-11e9-9ba1-8a0557f55131.jpg)
 
+##### *Setelah dicek ukuran kapasitas flashdisk tinggal segini nih.*
 <p align="center">
   <img src="https://user-images.githubusercontent.com/24805357/51428118-b5781880-1c32-11e9-9fb8-3064f1d6f882.jpg">
 </p>
-*Setelah dicek ukuran kapasitas flashdisk tinggal segini nih.*
-![berbagi pengalaman - etcher broke my usb - kembali normal](https://user-images.githubusercontent.com/24805357/51428123-b741dc00-1c32-11e9-827b-b93f8cc1e2fb.jpg) *Nah, untungnya masih bisa kembali normal.*
 
-## Tambahan
+##### *Nah, untungnya masih bisa kembali normal.*
+![berbagi pengalaman - etcher broke my usb - kembali normal](https://user-images.githubusercontent.com/24805357/51428123-b741dc00-1c32-11e9-827b-b93f8cc1e2fb.jpg)
+
+### Tambahan
 
 <p>
 Googling-googling tidak hanya membawa Ane pada solusi mengembalikan kapasitas flashdisk, tapi juga pada tutorial membuat bootable flashdisk tanpa software. Bisa ya? (haha gaptek emang). Dan beberapa langkah awal membuat bootable flashdisk tanpa software adalah dengan cara yang sama seperti mengembalikan kapasitas flashdisk. (Kalau bingung maksudnya silakan ulang-ulang saja membaca paragraf ini).
