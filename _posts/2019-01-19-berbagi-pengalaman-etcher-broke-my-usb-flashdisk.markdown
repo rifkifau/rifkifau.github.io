@@ -71,6 +71,7 @@ Dan berikut adalah bukti dari cerita diatas:
 <center>![berbagi pengalaman - etcher broke my usb - storage berkurang](https://user-images.githubusercontent.com/24805357/51428118-b5781880-1c32-11e9-9fb8-3064f1d6f882.jpg) </center>*Setelah dicek ukuran kapasitas flashdisk tinggal segini nih.*
 
 ![berbagi pengalaman - etcher broke my usb - kembali normal](https://user-images.githubusercontent.com/24805357/51428123-b741dc00-1c32-11e9-827b-b93f8cc1e2fb.jpg) *Nah, untungnya masih bisa kembali normal.*
+
 ## Tambahan
 
 <p>
@@ -79,3 +80,4 @@ Googling-googling tidak hanya membawa Ane pada solusi mengembalikan kapasitas fl
 <p>
 Setelah mencermati ulang video tutorial, ternyata didalam video tersebut tidak diperlihatkan keberhasilannya membuat bootable flashdisk menggunakan Etcher. Sial emang. Ini nih potongan videonya kalau belum percaya:
 </p>
+![berbagi pengalaman - etcher broke my usb - kembali normal](images/etcher/berbagi-pengalaman-etcher-broke-my-usb-potongan-video.gif)
