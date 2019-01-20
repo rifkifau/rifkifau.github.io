@@ -23,7 +23,7 @@ Nah, berhubung cerita yang awalnya pengen ditulis belum kesampaian karena males 
 Tidak banyak sih ceritanya, cuma masalah foto. Dan ini juga berkaitan dengan foto sebelumnya yang masalah replay itu. haha.
 </p>
 <p>
-Jadi, kemarin (20 Januari 2019) untuk kedua kalinya Ane menjajal Mataram Premium. Adapun tujuannya masih sama, yakni Jogja - Jakarta. Bedanya, kali ini tepat milih kursi arah hadapnya searah dengan jalannya kereta. hehe. Setelah beberapa saat duduk dikursi (waktu itu di Premium 7; 36B. Eh 13B maksudnya), teringatlah dengan tulisan "replay" yang dipengalaman pertama sempat Ane foto. Dan ternyata apa? Ini nih yang terjadi:
+Jadi, kemarin (20 Januari 2019) untuk kedua kalinya Ane menjajal Mataram Premium. Adapun rutenya masih sama, yakni Jogja - Jakarta. Bedanya, kali ini tepat milih kursinya, yakni yang arah hadapnya searah dengan jalannya kereta. hehe. Cerita dimulai setelah beberapa saat Ane duduk dikursi (waktu itu di Premium 7; 36B. Eh 13B maksudnya). Teringatlah dengan tulisan "Replay" yang dipengalaman pertama sempat Ane foto. Dan ternyata apa? Ini nih yang terjadi:
 </P>
 *Sepertinya ada yang coba ditutup-tutupi. Sepertinya*
 ![Kereta Api Mataram Premium](../../images/mataram-premium/kereta-api-indonesia-mataram-premium-unik.jpg)
