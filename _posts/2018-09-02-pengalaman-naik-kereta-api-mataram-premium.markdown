@@ -28,5 +28,5 @@ Jadi, kemarin (20 Januari 2019) untuk kedua kalinya Ane menjajal Mataram Premium
 *Sepertinya ada yang coba ditutup-tutupi. Sepertinya*
 ![Kereta Api Mataram Premium](../../images/mataram-premium/kereta-api-indonesia-mataram-premium-unik.jpg)
 <p>
-Tanpa memperdulikan siapapun disekitar, Ane terawang-terawang itu tulisan dibalik blok abu-abu. Ya, pengen memastikan aja kalau yang ditutupi adalah tulisan yang sama dengan yang Ane lihat di pengalaman pertama menggunakan Mataram Premium.
+Tanpa peduli reaksi siapapun disekitar, Ane terawang-terawang itu tulisan dibalik blok abu-abu. Ya, pengen memastikan aja kalau yang ditutupi adalah tulisan yang sama dengan yang Ane lihat di pengalaman pertama menggunakan Mataram Premium.
 </p>
