@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "#BagiPengalaman-3: Kelaparan di Perpustakan Nasional"
-date:   2019-01-19
+date:   2019-02-05
 tags:   [ Berbagi, Pengalaman, Perpustakaan, Nasional, Kantin ]
 ---
 <p class="intro"><span class="dropcap">M</span>inggu, 3 Februari 2019 tidak seperti beberapa hari sebelumnya yang mendung dan basah. Hari itu cukup cerah. Pas banget buat nyuci dan njemur pakaian. (Fyi, Ane belum pernah ngelaundry lho selama ngekost di jakarta. Sebuah Kebanggaan).
