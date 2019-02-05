@@ -96,7 +96,7 @@ Tapi kok ada ibu-ibu yang bawa makanannya sendiri ya?
 Tanyalah Ane ke si Ibu-ibu itu (yang kebetulan duduknya didekat Ane), “Ini makanannya ambil sendiri, atau nunggu ya, Bu?”
 </p>
 <p>
-Oh, ternyata beliau beli makanan di warung yang beda.
+Oh, ternyata beliau beli makanan di warung yang beda dan kurang tau (soalnya aku menunjukkan nomor meja dan nota).
 </p>
 <p>
 Menunggu lagi,..
