@@ -51,8 +51,14 @@ Karena tidak sabar, tanyalah Ane keseorang petugas, dimana lokasi tangga. Ternya
 Sebelum Ane menuju tangga ada dua hal yang disampaikan si petugas:
 </p>
 <p>
-* Pertama, kalau akhir pekan emang rame. (Jadi kalau Ente mau yang sepi, semedi aja dikamar kostan. Wkwk. Maksudnya, saran Ane datang saja pas hari kerja).
-* Kedua, bisa lewat tangga tapi si petugas itu nggak bisa memastikan pintu tangganya terbuka. (Pas Ane coba naik ke lantai 5 ternyata pintunya terkunci. Mungkin karena lantai 5 itu perkantoran. Naik lagi, dan untungnya di lantai 6 pintunya bisa dibuka.)
+<ul>
+<li>
+Pertama, kalau akhir pekan emang rame. (Jadi kalau Ente mau yang sepi, semedi aja dikamar kostan. Wkwk. Maksudnya, saran Ane datang saja pas hari kerja).
+</li>
+<li>
+Kedua, bisa lewat tangga tapi si petugas itu nggak bisa memastikan pintu tangganya terbuka. (Pas Ane coba naik ke lantai 5 ternyata pintunya terkunci. Mungkin karena lantai 5 itu perkantoran. Naik lagi, dan untungnya di lantai 6 pintunya bisa dibuka.)
+</li>
+</ul>
 </p>
 <p>
 Lantai 6 adalah data center dan mushola. Sekedar informasi saja, bagi yang mau Sholat di Mushola Perpusnas ini tempat wudhunya ada di dalam. Sejujurnya Ane jarang (atau mungkin belum pernah ya?) menemukan Mushola ataupun Masjid yang tempat wudhunya diakses dengan masuk Mushola/Masjidnya dulu. Jadi cukup kaget ketika Ane ke toilet lantai 6 kemudian tanya tempat wudhu, jawabannya ternyata di dalam Mushola.
