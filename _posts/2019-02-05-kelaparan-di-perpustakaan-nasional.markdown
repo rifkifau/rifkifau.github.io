@@ -19,7 +19,7 @@ Karena sejak awal emang niatannya pengen ke Perpusnas, ya, tetap pergi. Setelah 
 Seperti biasa, karena ini adalah pengamalan yang pertama, sudah pastilah foto-foto dulu. Minimal biar bisa jadi bahan cerita buat anakcucu kalau pernah main ke perpustakaan tertinggi di dunia.
 </p>
 <p>
-Berikut adalah beberapa hasil dokumentasinya, dengan obyek utama adalah hal-hal yang berbau kebumian. Peta. Ya kan alumni Geografi. Apalagi prodi Kartografi dan Penginderaan Jauh. Malu kalau sensifitas dan ketertarikannya terhadap peta lemah. Huehehe.
+Berikut adalah beberapa hasil dokumentasinya, dengan obyek utama adalah hal-hal yang berbau kebumian. Peta. Ya kan alumni Geografi. Apalagi prodi Kartografi dan Penginderaan Jauh. Malu kalau sensitivitas dan ketertarikannya terhadap peta lemah. Huehehe.
 </p>
 ##### *Miniatur Perpusnas*
 ![Perpustakaan-Nasional-Tertinggi-Indonesia-Miniatur-Perpusnas](../../images/perpusnas/Perpustakaan-Nasional-Tertinggi-Indonesia-Miniatur-Perpusnas.jpg)
