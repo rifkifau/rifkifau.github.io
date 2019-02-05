@@ -53,7 +53,7 @@ Sebelum Ane menuju tangga ada dua hal yang disampaikan si petugas:
 <p>
 <ul>
 <li>
-Pertama, kalau akhir pekan emang rame. (Jadi kalau Ente mau yang sepi, semedi aja dikamar kostan. Wkwk. Maksudnya, saran Ane datang saja pas hari kerja).
+Pertama, akhir pekan pengunjungnya emang rame. (Jadi kalau Ente mau yang sepi, semedi aja dikamar kostan. Wkwk. Maksudnya, saran Ane datang saja pas hari kerja).
 </li>
 <li>
 Kedua, bisa lewat tangga tapi si petugas itu nggak bisa memastikan pintu tangganya terbuka. (Pas Ane coba naik ke lantai 5 ternyata pintunya terkunci. Mungkin karena lantai 5 itu perkantoran. Naik lagi, dan untungnya di lantai 6 pintunya bisa dibuka.)
