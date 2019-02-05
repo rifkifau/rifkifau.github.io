@@ -147,14 +147,14 @@ Kembali duduk, dan menunggu dong, masa’ iya banting meja kursi… Nggak mungki
 Sekitar sepuluh menit kemudian, akhirnya datang juga itu pesanan.
 </p>
 <p>
-Sekitar lima menit kemudian selesai, dan cabut…
+Sekitar sepuluh menit kemudian selesai makan-minum, dan cabut…
 </p>
 <p>
 
 Tatkala masih berusaha meredam emosi, dihadapkanlah Ane dengan antrean lift. Rencana mau ke lantai 16, jadi memutuskan menunggu lift sejenak. Tapi kok lama ya?
 </p>
 <p>
-Bodo amat lah! Naik tangga. Sampai (kalau tidak salah) lantai 9, akhirnya Ane putuskan menunggu lift. Untungnya nggak lama. Alhamdulillah.
+Bodo amat lah! Naik tangga. Sampai (kalau tidak salah) lantai 9, akhirnya Ane putuskan menunggu lift untuk melanjutkan ke lantai 16. Untungnya nggak lama. Alhamdulillah.
 </p>
 
 <p>
@@ -171,7 +171,7 @@ Beginilah suasana ruang layanan koleksi foto, peta, dan lukisan:
 ![Perpustakaan-Nasional-Tertinggi-Indonesia-Katalog-Peta](../../images/perpusnas/Perpustakaan-Nasional-Tertinggi-Indonesia-Katalog-Peta.jpg)
 
 <p>
-Nah, bagi yang mau baca-baca buku silakan naik ke lantai 21 dan 22. Di sana tersedia banyak pilihan buku yang bisa dibaca tentunya. Plus tempat-tempat baca dan diskusi yang cukup nyaman. Kalau bosan bisa tuh lihat ke luar jendela (utara), ada pemandangan Monumen Nasional (Monas).
+Nah, bagi yang mau baca-baca buku silakan naik ke lantai 21 dan 22. Di sana tersedia banyak pilihan buku yang bisa dibaca tentunya. Plus tempat-tempat baca dan diskusi yang cukup nyaman. Kalau bosan bisa tuh lihat ke luar jendela (utara), ada pemandangan Monumen Nasional (Monas). Huehehe.
 </p>
 ##### *Buku-buku*
 ![Perpustakaan-Nasional-Tertinggi-Indonesia-Buku-buku](../../images/perpusnas/Perpustakaan-Nasional-Tertinggi-Indonesia-Buku-buku.jpg)
