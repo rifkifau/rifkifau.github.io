@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "#BagiPengalaman-3: Kelaparan di Perpustakan Nasioanl"
+title:  "#BagiPengalaman-3: Kelaparan di Perpustakan Nasional"
 date:   2019-01-19
 tags:   [ Berbagi, Pengalaman, Perpustakaan, Nasional, Kantin ]
 ---
-<p class="intro"><span class="dropcap">M</span>inggu, 3 Februari 2019 tidak seperti beberapa hari sebelumnya yang mendung dan basah. Hari itu cukup cerah. Pas banget buat nyuci dan njemur pakaian. (Fyi, Ane belum pernah ngelaundry lho selama ngekost di jakarta. Sebuah Kebanggaan)
+<p class="intro"><span class="dropcap">M</span>inggu, 3 Februari 2019 tidak seperti beberapa hari sebelumnya yang mendung dan basah. Hari itu cukup cerah. Pas banget buat nyuci dan njemur pakaian. (Fyi, Ane belum pernah ngelaundry lho selama ngekost di jakarta. Sebuah Kebanggaan).
 </p>
 <p>
 Sebenarnya hari ini Ane ada janji mau ketemuan dengan seseorang untuk mendiskusikan suatu hal yang cukup urgent terkait bagaimana nasib bangsa ini kedepannya. Hehe. Bukanlah, pokoknya diskusi begitu. Rencana tempatnya adalah Perpustakaan Nasional (Perpusnas) Indonesia. Ini adalah tempat yang Ane usulkan karena memang kebetulan belum pernah kesana. Ya, hitung-hitung sekalian biar ngerti seperti apa perpustakaan yang katanya tertinggi di dunia.
@@ -21,6 +21,23 @@ Seperti biasa, karena ini adalah pengamalan yang pertama, sudah pastilah foto-fo
 <p>
 Berikut adalah beberapa hasil dokumentasinya, dengan obyek utama adalah hal-hal yang berbau kebumian. Peta. Ya kan alumni Geografi. Apalagi prodi Kartografi dan Penginderaan Jauh. Malu kalau sensifitas dan ketertarikannya terhadap peta lemah. Huehehe.
 </p>
+##### *Miniatur Perpusnas*
+![Perpustakaan-Nasional-Tertinggi-Indonesia-Miniatur-Perpusnas](../../images/perpusnas/Perpustakaan-Nasional-Tertinggi-Indonesia-Miniatur-Perpusnas.jpg)
+##### *Aku Peta, aku peta, aku peta*
+![Perpustakaan-Nasional-Tertinggi-Indonesia-Peta](../../images/perpusnas/Perpustakaan-Nasional-Tertinggi-Indonesia-Peta.jpg)
+##### *Seperti apa peristiwa membaca itu?*
+![Perpustakaan-Nasional-Tertinggi-Indonesia-Peristiwa-Membaca](../../images/perpusnas/Perpustakaan-Nasional-Tertinggi-Indonesia-Peristiwa-Membaca.jpg)
+##### *Peta sejarah aksara*
+![Perpustakaan-Nasional-Tertinggi-Indonesia-Peta Sejarah-Aksara](../../images/perpusnas/Perpustakaan-Nasional-Tertinggi-Indonesia-Peta Sejarah-Aksara.jpg)
+##### *Halaman Depan Perpusnas*
+![Perpustakaan-Nasional-Tertinggi-Indonesia-Halaman-Depan-Perpusnas](../../images/perpusnas/Perpustakaan-Nasional-Tertinggi-Indonesia-Halaman-Depan-Perpusnas.jpg)
+
+##### *Kalau bingung, tenang ada petunjuk arah kok*
+![Perpustakaan-Nasional-Tertinggi-Indonesia-Petunjuk-Arah](../../images/perpusnas/Perpustakaan-Nasional-Tertinggi-Indonesia-Petunjuk-Arah.jpg)
+##### *Ini nih detail lantai-lantainya*
+![Perpustakaan-Nasional-Tertinggi-Indonesia-Informasi-Lantai](../../images/perpusnas/Perpustakaan-Nasional-Tertinggi-Indonesia-Informasi-Lantai.jpg)
+##### *Meja informasi dan jam dinding(?)*
+![Perpustakaan-Nasional-Tertinggi-Indonesia-Meja-Informasi](../../images/perpusnas/Perpustakaan-Nasional-Tertinggi-Indonesia-Meja-Informasi.jpg)
 
 
 <p>
