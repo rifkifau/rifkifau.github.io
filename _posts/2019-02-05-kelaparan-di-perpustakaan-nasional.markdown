@@ -93,10 +93,10 @@ Menunggu… dan menunggu,..
 Tapi kok ada ibu-ibu yang bawa makanannya sendiri ya?
 </p>
 <p>
-Tanyalah Ane ke si Ibu-ibu itu (yang kebetulan duduknya didekat Ane), “Ini makanannya ambil sendiri, atau nunggu ya, Bu?”
+Tanyalah Ane ke si Ibu-ibu itu (yang kebetulan duduknya didekat Ane) sambil menunjukkan nota dan nomor meja, “Ini makanannya ambil sendiri, atau nunggu ya, Bu?”
 </p>
 <p>
-Oh, ternyata beliau beli makanan di warung yang beda dan kurang tau (soalnya aku menunjukkan nomor meja dan nota).
+Oh, ternyata beliau beli makanan di warung yang berbeda dan kurang tahu kalau yang warung geprek makanannya diantar atau ambil dan bawa sendiri.
 </p>
 <p>
 Menunggu lagi,..
