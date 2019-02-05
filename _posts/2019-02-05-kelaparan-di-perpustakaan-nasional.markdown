@@ -38,7 +38,8 @@ Berikut adalah beberapa hasil dokumentasinya, dengan obyek utama adalah hal-hal 
 ![Perpustakaan-Nasional-Tertinggi-Indonesia-Informasi-Lantai](../../images/perpusnas/Perpustakaan-Nasional-Tertinggi-Indonesia-Informasi-Lantai.jpg)
 ##### *Meja informasi dan jam dinding(?)*
 ![Perpustakaan-Nasional-Tertinggi-Indonesia-Meja-Informasi](../../images/perpusnas/Perpustakaan-Nasional-Tertinggi-Indonesia-Meja-Informasi.jpg)
-
+##### *Wuuuuu Globe*
+![Perpustakaan-Nasional-Tertinggi-Indonesia-Globe](../../images/perpusnas/Perpustakaan-Nasional-Tertinggi-Indonesia-Globe.gif)
 
 <p>
 Eskalator hanya sampai lantai empat, jadi kalau mau naik ke lantai diatas-atasnya lagi harus menggunakan lift. Tapi, meskipun jumlah lift yang bisa digunakan ada lima, ternyata antrenya gilak, bukan main. Ruame buanget. Gilak.
@@ -50,8 +51,8 @@ Karena tidak sabar, tanyalah Ane keseorang petugas, dimana lokasi tangga. Ternya
 Sebelum Ane menuju tangga ada dua hal yang disampaikan si petugas:
 </p>
 <p>
-Pertama, kalau akhir pekan emang rame. (Jadi kalau Ente mau yang sepi, semedi aja dikamar kostan. Wkwk. Maksudnya, saran Ane datang saja pas hari kerja)
-Kedua, bisa lewat tangga tapi si petugas itu nggak bisa memastikan pintu tangganya terbuka. (Pas Ane coba naik ke lantai 5 ternyata pintunya terkunci. Mungkin karena lantai 5 itu perkantoran. Naik lagi, dan untungnya di lantai 6 pintunya bisa dibuka.)
+* Pertama, kalau akhir pekan emang rame. (Jadi kalau Ente mau yang sepi, semedi aja dikamar kostan. Wkwk. Maksudnya, saran Ane datang saja pas hari kerja).
+* Kedua, bisa lewat tangga tapi si petugas itu nggak bisa memastikan pintu tangganya terbuka. (Pas Ane coba naik ke lantai 5 ternyata pintunya terkunci. Mungkin karena lantai 5 itu perkantoran. Naik lagi, dan untungnya di lantai 6 pintunya bisa dibuka.)
 </p>
 <p>
 Lantai 6 adalah data center dan mushola. Sekedar informasi saja, bagi yang mau Sholat di Mushola Perpusnas ini tempat wudhunya ada di dalam. Sejujurnya Ane jarang (atau mungkin belum pernah ya?) menemukan Mushola ataupun Masjid yang tempat wudhunya diakses dengan masuk Mushola/Masjidnya dulu. Jadi cukup kaget ketika Ane ke toilet lantai 6 kemudian tanya tempat wudhu, jawabannya ternyata di dalam Mushola.
