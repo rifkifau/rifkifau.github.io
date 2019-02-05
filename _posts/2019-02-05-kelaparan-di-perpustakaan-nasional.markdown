@@ -105,7 +105,7 @@ Menunggu lagi,..
 Akhirnya, tanyalah Ane ke Mbak-mbak yang jual di warung ayam geprek. Hmmm, ternyata suruh ngasih nota, dan diganti dengan nomor meja, kali ini warna hijau.
 </p>
 <p>
-Duduk lagi, dan kupasang dua buah nomor meja, hijau dan kuning.
+Duduk lagi, lalu kupasang dua buah nomor meja, hijau dan kuning.
 </p>
 <p>
 Menunggu…
@@ -132,7 +132,7 @@ Lho emang masih menunggu dong,
 Jengkel wajar dong… Tapi Ane berusaha tahan..
 </p>
 <p>
-Sudah jam 14.00 nih btw dan cuma minum doang, iya dong masa’ makan gelas..
+Sudah jam 14.00 nih, nyaris sejam btw, dan cuma minum doang. Iya dong, masa’ makan gelas..
 </p>
 <p>
 Akhirnya Ane tanyakan ke Mbak-mbak warungnya lagi, “Ini pesenan meja nomor 12 sudah belum ya, Mbak?”
@@ -141,7 +141,7 @@ Akhirnya Ane tanyakan ke Mbak-mbak warungnya lagi, “Ini pesenan meja nomor 12 
 “Iya Mas bentar lagi”
 </p>
 <p>
-Kembali duduk, dan menunggu dong, masa’ iya banting meja kursi… nggak mungkin dong..
+Kembali duduk, dan menunggu dong, masa’ iya banting meja kursi… Nggak mungkin dong..
 </p>
 <p>
 Sekitar sepuluh menit kemudian, akhirnya datang juga itu pesanan.
