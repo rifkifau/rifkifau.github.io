@@ -56,6 +56,8 @@ Kedua, bisa lewat tangga tapi si petugas itu nggak bisa memastikan pintu tanggan
 <p>
 Lantai 6 adalah data center dan mushola. Sekedar informasi saja, bagi yang mau Sholat di Mushola Perpusnas ini tempat wudhunya ada di dalam. Sejujurnya Ane jarang (atau mungkin belum pernah ya?) menemukan Mushola ataupun Masjid yang tempat wudhunya diakses dengan masuk Mushola/Masjidnya dulu. Jadi cukup kaget ketika Ane ke toilet lantai 6 kemudian tanya tempat wudhu, jawabannya ternyata di dalam Mushola.
 </p>
+##### *Mushola*
+![Perpustakaan-Nasional-Tertinggi-Indonesia-Mushola](../../images/perpusnas/Perpustakaan-Nasional-Tertinggi-Indonesia-Mushola.jpg)
 <p>
 Setelah sholat dzuhur, sebelum melanjutkan ke lantai 16 (layanan koleksi foto, peta, dan lukisan) karena kencot (lapar) Ane putuskan untuk turun ke lantai 4. Makan di kantin Perpusnas.
 </p>
@@ -71,6 +73,9 @@ Bayar di kasir sekalian pesen minum.
 <p>
 Dapatlah nota dari kasir, nota dari warung ayam geprek (yang kalau tidak salah sudah dicap lunas), serta nomor meja warna kuning.
 </p>
+##### *Hanya punya ini dokumentasinya*
+![Perpustakaan-Nasional-Tertinggi-Indonesia-Beli-di-kantin](../../images/perpusnas/Perpustakaan-Nasional-Tertinggi-Indonesia-Beli-di-kantin.jpg)
+
 <p>
 Carilah Ane tempat duduk yang kosong, dan mulai menunggu.
 </p>
@@ -149,7 +154,19 @@ Bodo amat lah! Naik tangga. Sampai (kalau tidak salah) lantai 9, akhirnya Ane pu
 Beginilah suasana ruang layanan koleksi foto, peta, dan lukisan:
 </p>
 
+##### *layanan koleksi foto, peta, dan lukisan*
+![Perpustakaan-Nasional-Tertinggi-Indonesia-Layanan-Koleksi-Foto-Peta-Lukisan](../../images/perpusnas/Perpustakaan-Nasional-Tertinggi-Indonesia-Layanan-Koleksi-Foto-Peta-Lukisan.jpg)
+##### *Tapi mana petanya ya? kok nggak ada yang dipajang?*
+![Perpustakaan-Nasional-Tertinggi-Indonesia-Lantai-16](../../images/perpusnas/Perpustakaan-Nasional-Tertinggi-Indonesia-Lantai-16.jpg)
+##### *Kok dimeja cuma ada katalognya? Masa' iya disembunyikan petanya. Atau emang nggak ada koleksi petanya(?)*
+![Perpustakaan-Nasional-Tertinggi-Indonesia-Buku-Katalog-Peta](../../images/perpusnas/Perpustakaan-Nasional-Tertinggi-Indonesia-Buku-Katalog-Peta.jpg)
+##### *Kalau cuma begini mah, indeks RBI yang versi peta juga bisa download*
+![Perpustakaan-Nasional-Tertinggi-Indonesia-Katalog-Peta](../../images/perpusnas/Perpustakaan-Nasional-Tertinggi-Indonesia-Katalog-Peta.jpg)
 
 <p>
 Nah, bagi yang mau baca-baca buku silakan naik ke lantai 21 dan 22. Di sana tersedia banyak pilihan buku yang bisa dibaca tentunya. Plus tempat-tempat baca dan diskusi yang cukup nyaman. Kalau bosan bisa tuh lihat ke luar jendela (utara), ada pemandangan Monumen Nasional (Monas).
 </p>
+##### *Buku-buku*
+![Perpustakaan-Nasional-Tertinggi-Indonesia-Buku-buku](../../images/perpusnas/Perpustakaan-Nasional-Tertinggi-Indonesia-Buku-buku.jpg)
+##### *Ini pemandangan dari lantai 16 (kalau tidak salah)*
+![Perpustakaan-Nasional-Tertinggi-Indonesia-Katalog-Peta](../../images/perpusnas/Perpustakaan-Nasional-Tertinggi-Indonesia-Pemandangan-Monas.jpg)
