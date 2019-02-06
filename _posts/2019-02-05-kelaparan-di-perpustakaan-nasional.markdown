@@ -135,7 +135,7 @@ Jengkel wajar dong… Tapi Ane berusaha tahan..
 Sudah jam 14.00 nih, nyaris sejam btw, dan cuma minum doang. Iya dong, masa’ makan gelas..
 </p>
 <p>
-Akhirnya Ane tanyakan ke Mbak-mbak warungnya lagi, “Ini pesenan meja nomor 12 sudah belum ya, Mbak?”
+Merasa diabaikan, karena pengunjung yang datang belakangan justru lebih dulu diantar pesanannya (padahal dari warung yang sama). Akhirnya Ane tanyakan ke Mbak-mbak warungnya lagi, “Ini pesenan meja nomor 12 sudah belum ya, Mbak?”
 </p>
 <p>
 “Iya Mas bentar lagi”
@@ -144,7 +144,7 @@ Akhirnya Ane tanyakan ke Mbak-mbak warungnya lagi, “Ini pesenan meja nomor 12 
 Kembali duduk, dan menunggu dong, masa’ iya banting meja kursi… Nggak mungkin dong..
 </p>
 <p>
-Sekitar sepuluh menit kemudian, akhirnya datang juga itu pesanan.
+Sekitar sepuluh menit kemudian, akhirnya datang juga itu pesanan. Eh, tapi kok bukan geprek, cuma sayap ayam biasa dilumuri sambal geprek(?). Bodo amatlah, sudah lapar juga.
 </p>
 <p>
 Sekitar sepuluh menit kemudian selesai makan-minum, dan cabut…
