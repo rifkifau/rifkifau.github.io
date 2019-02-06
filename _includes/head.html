@@ -75,7 +75,7 @@
     <script src="{{ "/assets/js/modernizr.custom.15390.js" | prepend: site.baseurl }}" type="text/javascript"></script>
 
     {% if site.google_analytics %} {% include google_analytics.html %} {% endif %}
-    
+
     <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     <script>
          (adsbygoogle = window.adsbygoogle || []).push({
@@ -83,4 +83,16 @@
               enable_page_level_ads: true
          });
     </script>
+
+    <link rel="manifest" href="/manifest.json" />
+    <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+    <script>
+      var OneSignal = window.OneSignal || [];
+      OneSignal.push(function() {
+        OneSignal.init({
+          appId: "492061b2-4bfe-46e7-98df-3372a96f2e35",
+        });
+      });
+    </script>
+
 </head>
