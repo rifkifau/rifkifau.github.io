@@ -1,6 +1,0 @@
----
-layout: post
-title:  "#BagiPengalaman-3: Kelaparan di Perpustakan Nasional"
-date:   2019-02-15
-tags:   [ Berbagi, Pengalaman, Perpustakaan, Nasional, Kantin ]
----
