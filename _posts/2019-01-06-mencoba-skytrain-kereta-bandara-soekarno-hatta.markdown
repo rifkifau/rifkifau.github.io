@@ -26,7 +26,7 @@ Akhirnya minta turun sebelum sampai di Gambir, dan pesan ojol lagi. Naasnya, wak
 Sialnya lagi, koneksi internet ilang-ilangan. Pokoknya, sulitlah ngontak si drivernya. Sampai keringetan bingung, soalnya jadwal kereta bandaranya tinggal sebentar lagi.
 </p>
 <p>
-Akhirnya, mencoba mengikhlaskan tiket kereta bandara, dan melanjutkan ke Gambir naik bis Damri. Sudah nggak yakin nggak kekejar soalnya kalau ke Stasiun Sudirman Baru. Apalagi belum pernah naik Kereta Bandara, pasti kalaupun sampai masih perlu tanya sana-sini. Yang ujung-ujungnya ketinggalan kereta bandaranya. Huehehe..
+Akhirnya, mencoba mengikhlaskan tiket kereta bandara, dan melanjutkan ke Gambir naik bis Damri. Sudah yakin nggak bakalan kekejar kalau ke Stasiun Sudirman Baru. Apalagi belum pernah naik Kereta Bandara sebelumnya, pasti nanti juga masih perlu tanya sana-sini, yang ujung-ujungnya ketinggalan kereta bandara. Huehehe..
 </p>
 <p>
 * Wkwk, kepanjangan ternyata intronya…
