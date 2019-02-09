@@ -8,7 +8,7 @@ tags:   [ Foto, Pengalaman, Jepretan, Skytrain, Kalayang, Bandara, Soetta ]
 <p class="intro"><span class="dropcap">C</span>erita berawal berkat adanya perjalanan melalui jalur udara dari Bandara Soekarno-Hatta. Pengen sekali rasanya menjajal kereta bandara. Udah itu aja..
 </p>
 <p>
-4 Desember 2018 lalu (sorry terlalu basi), Ane buka aplikasi Railink yang sudah terinstall di smartphone. Rencananya mau beli tiket. Sengaja dadakan, karena emang sebelum-sebelumnya sudah beberapa kali cek ketersediaan kursi kosongnya masih banyak.
+4 Desember 2018 lalu, Ane buka aplikasi Railink yang sudah terinstall di smartphone. Rencananya mau beli tiket untuk perjalanan hari itu juga. Sengaja dadakan, karena emang sebelum-sebelumnya sudah beberapa kali cek ketersediaan kursi kosongnya masih banyak.
 </p>
 <p>
 Sayangnya, pas mau bayar (pakai mobile banking) gagal-gagal terus. Ane lupa pesan gagalnya apa. Intinya, waktu itu Ane kemudian memutuskan untuk nggak jadi menjajal kereta bandara, dan beralih ke Damri.
