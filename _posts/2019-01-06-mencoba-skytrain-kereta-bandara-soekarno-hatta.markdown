@@ -41,9 +41,9 @@ Blabla..
 Tiba lagi di Bandara Internasional Soekarno-Hatta, dan memutuskan ke Kostan di Jakarta Selatan menggunakan Kereta Bandara.
 </p>
 <p>
-Pertama dari terminal 3 Bandara Soetta, naik skytrain (kereta kalayang) menuju stasiun kereta bandara. Tenang, gratis. Btw, ini juga pengalaman pertama naik Skytrain. Huehehe..
+Pertama dari terminal 3 Bandara Soetta, naik skytrain/kalayang (kereta layang) menuju stasiun kereta bandara. Tenang, gratis. Btw, ini juga pengalaman pertama naik Skytrain. Huehehe..
 </p>
-##### *Stasiun Kereta Kalayang (Skytrain) Terminal 3 Bandara Soetta*
+##### *Stasiun Kereta layang (Kalayang/Skytrain) Terminal 3 Bandara Soetta*
 ![Mencoba-Skytrain-Kereta-Kalayang-Bandara-Soekarno-Hatta-Stasiun-Terminal-3](../../images/skytrain-kereta-bandara/Mencoba-Skytrain-Kereta-Kalayang-Bandara-Soekarno-Hatta-Stasiun-Terminal-3.jpg)
 ##### *Suasana di dalam Gerbong Skytrain. Lumayan Sepi*
 ![Mencoba-Skytrain-Kereta-Kalayang-Bandara-Soekarno-Hatta-Suasana-Dalam-Gerbong](../../images/skytrain-kereta-bandara/Mencoba-Skytrain-Kereta-Kalayang-Bandara-Soekarno-Hatta-Suasana-Dalam-Gerbong.jpg)
