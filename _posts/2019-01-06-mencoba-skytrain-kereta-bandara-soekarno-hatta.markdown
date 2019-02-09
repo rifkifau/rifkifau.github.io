@@ -17,7 +17,7 @@ Sayangnya, pas mau bayar (pakai mobile banking) gagal-gagal terus. Ane lupa pesa
 Pesanlah ojek online dan menuju ke stasiun Gambir untuk naik bis Damri ke Bandara Soekarno-Hatta.
 </p>
 <p>
-Nah, selama perjalanan dengan Babang Ojol, Ane iseng coba-coba bayar tiket Railink (kereta bandara). Dan apa yang terjadi? Berhasil. Wkwk.
+Nah, selama perjalanan dengan Babang Ojol, Ane iseng coba-coba lagi bayar tiket Railink (kereta bandara) pakai mobile banking. Dan apa yang terjadi? Berhasil. Wkwk.
 </p>
 <p>
 Akhirnya minta turun sebelum sampai di Gambir, dan pesan ojol lagi. Naasnya, waktu itu nggak bisa dapat Babang Ojol yang sama. Jadi, harus nunggu driver lagi.
