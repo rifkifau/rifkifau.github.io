@@ -32,7 +32,7 @@ Inilah kesimpulan yang berhasil Ane himpun, khususnya untuk Roti Tawar merk Sar*
 <li>Biru (Minggu)</li>
 </ul>
 <p>
-Itu adalah hari Best Before (BB) yang berhasil dianalisis dari penjepit bungkus roti tawar Sar*iRot*I sesuai dengan warnanya. Untuk tanggalnya silakan dilihat langsung di penjepitnya yak, karena nggak ada polanya. Ganjil Senin, Prima Selasa, Genap Rabu, dst. Tidak ada yang semacam itu. Huehehe.
+Itu adalah hari Best Before (BB) yang berhasil dianalisis dari penjepit bungkus roti tawar Sar*iRot*i sesuai dengan warnanya. Untuk tanggalnya silakan dilihat langsung di penjepitnya yak, karena nggak ada polanya. Ganjil Senin, Prima Selasa, Genap Rabu, dst. Tidak ada yang semacam itu. Huehehe.
 </p>
 <p>
 Nah berikut adalah foto dari penjepit-penjepit bungkus roti tawar yang berhasil Ane kumpulkan selama setahun di Jakarta:
