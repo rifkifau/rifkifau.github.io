@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Setahun di Jakarta, Saya Berhasil Mengumpulkan Ini"
-subtitle: "Yang Ketiga Menggemparkan Dunia "
+subtitle: "Yang Ketiga Menggemparkan Dunia"
 date:   2019-04-21
 tags:   [ Berbagi, Setahun, Merantau, Jakarta ]
 ---

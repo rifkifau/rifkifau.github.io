@@ -8,8 +8,9 @@ layout: default
       </div>
   {% endif %}
   <h1 class="postTitle">{{ page.title }}</h1>
+  <h3 class="postSubTitle">{{ page.subtitle }}</h3>
   <p class="meta">{{ page.date | date: '%B %d, %Y' }} | <span class="time">{{ page.content | number_of_words | divided_by:180 }}</span> Minute Read</p>
-  
+
   <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     <!-- responsive -->
     <ins class="adsbygoogle"
@@ -21,9 +22,9 @@ layout: default
    <script>
     (adsbygoogle = window.adsbygoogle || []).push({});
    </script>
-  
+
   {{ content }}
-  
+
    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     <!-- responsive -->
     <ins class="adsbygoogle"
@@ -35,7 +36,7 @@ layout: default
    <script>
     (adsbygoogle = window.adsbygoogle || []).push({});
    </script>
-  
+
 <br>
   <ul class="tags">
     {% for tag in page.tags %}
