@@ -63,5 +63,9 @@ Foto piringnya menyusul yak, kalau sudah ke kost. Dan kalau ingat ngefoto dan up
 Kalau ada yang tinggal di Jakarta dan butuh piring, kabari Ane saja, ntar bakalan Ane kasih piring. Datang langsung ke kost tapi, atau mau pakai kurir bisa juga tapi ongkir dan garansi Ente tanggung sendiri.
 </p>
 <p>
+[Update (24-04-2019) Foto Piring Tidak Cantik]
+![Piring-Cantik-Hadiah-Detergen-Alfamart](../../images/setahun-di-jakarta/Piring-Cantik-Hadiah-Detergen-Alfamart.jpg)
+</p>
+<p>
 Oke, cukup sekian, itu saja cerita tentang apa saja yang berhasil Ane kumpulkan selama setahun merantau di Jakarta. Terima kasih sudah mau membaca sampai akhir. Sekarang Ane tunggu cerita dari Ente, setahun dimana gitu berhasil mengumpulkan apa gitu. Begitu.
 </p>
