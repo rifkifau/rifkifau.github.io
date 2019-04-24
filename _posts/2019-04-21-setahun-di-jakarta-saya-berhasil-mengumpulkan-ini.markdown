@@ -17,7 +17,7 @@ Nah, sekarang April 2019, mumpung masih di Jogja (meliburkan diri setelah PEMILU
 Oke, Cuss!
 </p>
 <p>
-Pertama adalah penjepit roti tawar. Mengapa ini menjadi penting? Karena sejak tinggal di Jakarta Ane memang jadi sering makan roti, tepatnya roti tawar, mau itu yang benar-benar tawar, rasa susu, atau yang coklat. Tidak ribet, murah, tapi cukup mengenyangkan. Satu hal yang bisa Ane pelajari dari kebiasaan makan roti tawar ini adalah warna penjepit bungkusnya yang ternyata berbeda jika hari Best Before (BB) beda.
+Pertama adalah penjepit bungkus roti tawar. Mengapa ini menjadi penting? Karena sejak tinggal di Jakarta Ane memang jadi sering makan roti, tepatnya roti tawar, mau itu yang benar-benar tawar, rasa susu, atau yang coklat. Tidak ribet, murah, tapi cukup mengenyangkan. Satu hal yang bisa Ane pelajari dari kebiasaan makan roti tawar ini adalah warna penjepit bungkusnya yang ternyata berbeda jika hari Best Before (BB) beda.
 </p>
 <p>
 Inilah kesimpulan yang berhasil Ane himpun, khususnya untuk Roti Tawar merk Sar*iRot*i ya, soalnya itu yang paling sering Ane beli, sedangkan produk lain yang Ane beli tidak memiliki pola yang sama:
@@ -32,10 +32,10 @@ Inilah kesimpulan yang berhasil Ane himpun, khususnya untuk Roti Tawar merk Sar*
 <li>Biru (Minggu)</li>
 </ul>
 <p>
-Itu adalah hari Best Before (BB) yang berhasil dianalisis dari penjepit bungkus roti tawar Sar*iRot*I sesuai dengan warnanya. Untuk tanggalnya silakan dilihat langsung di penjepitnya yak, karena nggak ada polanya. Ganjil Senin, Prima Selasa, Genap Rabu, dst. Tidak ada yang semacam itu. Huehehe.
+Itu adalah hari Best Before (BB) yang berhasil dianalisis dari penjepit bungkus roti tawar Sar*iRot*i sesuai dengan warnanya. Untuk tanggalnya silakan dilihat langsung di penjepitnya yak, karena nggak ada polanya. Ganjil Senin, Prima Selasa, Genap Rabu, dst. Tidak ada yang semacam itu. Huehehe.
 </p>
 <p>
-Nah berikut adalah foto dari penjepit-penjepit roti tawar yang berhasil Ane kumpulkan selama setahun di Jakarta:
+Nah berikut adalah foto dari penjepit-penjepit bungkus roti tawar yang berhasil Ane kumpulkan selama setahun di Jakarta:
 </p>
 ![Warna-Penjepit-Bungkus-Roti-Tawar-SariRoti](../../images/setahun-di-jakarta/Warna-Penjepit-Bungkus-Roti-Tawar-SariRoti.jpg)
 <p>
