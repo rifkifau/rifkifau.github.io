@@ -64,8 +64,9 @@ Kalau ada yang tinggal di Jakarta dan butuh piring, kabari Ane saja, ntar bakala
 </p>
 <p>
 [Update (24-04-2019) Foto Piring Tidak Cantik]
-![Piring-Cantik-Hadiah-Detergen-Alfamart](../../images/setahun-di-jakarta/Piring-Cantik-Hadiah-Detergen-Alfamart.jpg)
 </p>
+![Piring-Cantik-Hadiah-Detergen-Alfamart](../../images/setahun-di-jakarta/Piring-Cantik-Hadiah-Detergen-Alfamart.jpg)
+
 <p>
 Oke, cukup sekian, itu saja cerita tentang apa saja yang berhasil Ane kumpulkan selama setahun merantau di Jakarta. Terima kasih sudah mau membaca sampai akhir. Sekarang Ane tunggu cerita dari Ente, setahun dimana gitu berhasil mengumpulkan apa gitu. Begitu.
 </p>
