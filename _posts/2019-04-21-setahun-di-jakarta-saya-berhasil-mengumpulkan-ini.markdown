@@ -56,17 +56,12 @@ Tanpa berpanjang lebar, ini adalah screenshot jumlah poin dari aplikasi Ponta An
 Cukup banyak yak? Kira-kira paling tepat ditukar apaan nih? Saran dong.. (Huehehe).
 </p>
 <p>
-Ketiga, piring cantik. Nggak cantik juga sih sebenarnya, karena yang cantik cuma kamu (Hahawkwk). Total ada sekitar tiga buah piring (jumlah agak lupa, karena belum dicheck di kamar kostan), yang merupakan hadiah langsung dari membeli detergen. Harusnya lebih banyak sih jumlahnya kalau tiap beli detergen jumlah stok piring hadiahnya masih dan Agan/Sista kasir Alfama*rt tidak lupa ngasih (karena memang Ane nggak pernah minta, meskipun jelas dibungkus detergen kalau ada gratis piring).
+Ketiga, piring cantik. Nggak cantik juga sih sebenarnya, karena yang cantik cuma kamu (Hahawkwk). Total ada tiga buah piring, yang merupakan hadiah langsung dari membeli detergen. Harusnya lebih banyak sih jumlahnya kalau tiap beli detergen jumlah stok piring hadiahnya masih dan Agan/Sista kasir Alfama*rt tidak lupa ngasih (karena memang Ane nggak pernah minta, meskipun jelas dibungkus detergen kalau ada gratis piring).
 </p>
 <p>
-Foto piringnya menyusul yak, kalau sudah ke kost. Dan kalau ingat ngefoto dan upload ke sini.
 Kalau ada yang tinggal di Jakarta dan butuh piring, kabari Ane saja, ntar bakalan Ane kasih piring. Datang langsung ke kost tapi, atau mau pakai kurir bisa juga tapi ongkir dan garansi Ente tanggung sendiri.
 </p>
-<p>
-[Update (24-04-2019) Foto Piring Tidak Cantik]
-</p>
 ![Piring-Cantik-Hadiah-Detergen-Alfamart](../../images/setahun-di-jakarta/Piring-Cantik-Hadiah-Detergen-Alfamart.jpg)
-
 <p>
 Oke, cukup sekian, itu saja cerita tentang apa saja yang berhasil Ane kumpulkan selama setahun merantau di Jakarta. Terima kasih sudah mau membaca sampai akhir. Sekarang Ane tunggu cerita dari Ente, setahun dimana gitu berhasil mengumpulkan apa gitu. Begitu.
 </p>
