@@ -23,8 +23,7 @@ navigation:
    url: /contact
  - title: Posts-Tags
    url: /posts-tags
-- title: ads.txt
-   url: /ads.txt
+
 
 social:
    github: rifkifau
