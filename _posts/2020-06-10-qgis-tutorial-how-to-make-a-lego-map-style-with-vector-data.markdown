@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "QGIS Tutorial : How to Make a Lego Map with Vector Data"
-date:   2018-08-16
+date:   2020-06-10
 tags:   [ Video Tutorial, Lego Map, Vector Data, Symbols, QGIS ]
 
 ---
