@@ -14,6 +14,3 @@ Untuk hasil dari skripsinya (karena berbasis web, jadi kalau mau lihat) silakan 
 
 *Ini adalah foto sebelum wisuda berlangsung, ya hitung-hitung sambil nyobain toga, siapa tau kekecilan atau kegedean*
 ![Wisuda](../../images/wisuda/prawisuda.JPG)
-
-*Foto dengan kedua orang tua, dengan background gedung baru fakultas Geografi, Klembik (KLMB maksudnya). Kalau tidak salah (hehe) kepanjangannya adalah Klinik Lingkungan dan Mitigasi Bencana.*
-![Wisuda](../../images/wisuda/wisuda-universitas.jpg)
