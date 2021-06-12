@@ -20,6 +20,7 @@ title: About rifkifau
 			<li>Hasil Skripsi <a href="https://rifkifau.github.io/skripsi">Citra Anaglip Multiskala untuk Kajian Bentuklahan</a></li>
 			<li>Klasifikasi dan Simbolisasi <a href="https://rifkifau.github.io/belajar-geostats">Visualisasi Kalimantan Tengah</a></li>
 			<li>Cluster Chart <a href="https://rifkifau.github.io/webgis-cluster-chart">Sebaran Sekolah di Indonesia</a></li>
+			<li>Animasi Track Sepeda <a href="https://rifkifau.github.io/visualisasi-animasi-track-sepeda">Visualisasi Animasi Track Sepeda</a></li>
 			<li>Cooming Soon</li>
 
   	</ul>
