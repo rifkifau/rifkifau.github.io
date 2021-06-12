@@ -47,7 +47,7 @@ degrees(azimuth(start_point($geometry), end_point(geometry(get_feature('nama-lay
 -----
 Okay, lanjut terkait visualisasi data <em>track</em>nya. Pertama yang Ane lakukan adalah meng<em>export</em> data <em>track</em> menjadi format *.geojson. Baru kemudian mengedit data geojson <em>track</em> tersebut. Apa aja bentuk edit yang dilakukan? (i) mengapus beberapa bagian awal dan akhir dari <em>track</em>, ya biar nggak begitu ketahuan posisi pasti kost-kostan Ane, (ii) menghapus beberapa <em>track</em> bagian tujuan sepedaan, karena ada yang tujuannya adalah kost teman, jadi ada baiknya dihilangkan biar tidak banyak orang tau, (iii) menghapus, nenambah dan menggeser <em>vertex</em>/<em>node</em>, terutama di beberapa area yang <em>track</em>nya tidak terakam atau terekam awut-awutan (bisa karena pas sepedaan salah jalan, istirahat sejenak, atau lainnya), seperti ini nih maksudnya:
 </p>
-![perbaikan-dan-edit-tracks](../../images/manfaat-sepedaan/perbaikan-dan-edit-tracks.png)
+![perbaikan-dan-edit-tracks](../../images/manfaat-sepedaan/perbaikan-dan-edit-tracks.jpg)
 <p>
 Total ada 11 <em>tracks</em> yang tersimpan diakun Strava Ane. Adapun jarak total yang terekam adalah 254.2 km, dengan <em>track</em> terpanjang adalah 28.1 km.
 </p>
@@ -57,15 +57,13 @@ Total ada 11 <em>tracks</em> yang tersimpan diakun Strava Ane. Adapun jarak tota
 <p>
 Di sini tidak akan Ane bahas rinci terkait scriptnya seperti apa, tapi gambaran kasar saja mengenai struktur data dan plugin Leaflet yang digunakan. Dari 11 data <em>track</em> yang sudah berformat *.geojson, Ane ambil bagian “coordinates”, kemudian membuatnya menjadi array object. Oh ya, pada saat export data dari layer *.gpx menjadi *.geojson, opsi ‘Geometry type’nya Ane ganti ‘LineString’ sekaligus uncheck bagian ‘Include z-dimension’. Dengan menghilangkan z-dimension ini, maka isi “coordinates” dalam file geojson hanya [x,y] saja, bukan lagi [x, y, z]. Berikut adalah struktur dari array obyek rute sepeda yang Ane simpan dalam variable.
 </p>
-<p>
 ![array-of-object-data-track-sepedaan](../../images/array-of-object-data-track-sepedaan.jpg)
-</p>
 <p>
 Terdapat empat plugin leaflet yang Ane gunakan, berikut daftarnya:
-•	Leaflet StyledLayerControl, digunakan untuk membuat layer control yang terdiri dari beberapa group (dalam konteks ini grup berdasarkan nama track),
-•	Leaflet Polyline SnakeAnim, digunakan untuk membuat animasi track menyerupai ular yang sedang merayap, karena itulah nama layer hasil animasinya Ane namakan “Slithering Snake”,
-•	Leaflet Ant Path, digunakan untuk membuat animasi track seperti jalur semut atau semut yang jalan berbaris gitu,
-•	Leaflet MovingMarker, digunakan untuk membuat animasi marker (anggap saja sepeda) yang bergerak sesuai/mengikuti track.
+1 Leaflet StyledLayerControl, digunakan untuk membuat layer control yang terdiri dari beberapa group (dalam konteks ini grup berdasarkan nama track),
+2 Leaflet Polyline SnakeAnim, digunakan untuk membuat animasi track menyerupai ular yang sedang merayap, karena itulah nama layer hasil animasinya Ane namakan “Slithering Snake”,
+3 Leaflet Ant Path, digunakan untuk membuat animasi track seperti jalur semut atau semut yang jalan berbaris gitu,
+4 Leaflet MovingMarker, digunakan untuk membuat animasi marker (anggap saja sepeda) yang bergerak sesuai/mengikuti track.
 </p>
 <p>
 Nah, terakhir, berikut adalah hasil akhir dari visualisasi track sepedaan Ane:
