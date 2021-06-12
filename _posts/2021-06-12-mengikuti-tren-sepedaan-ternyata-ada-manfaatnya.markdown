@@ -24,7 +24,7 @@ Selain beberapa kali Ane pakai untuk pergi-pulang kerja, diperiode awal beli, se
 Terlepas dari semua itu, fyi, sepedaan yang Ane lakukan bukanlah sepedaan pada umumnya. Ya, karena Ane sepedaan sendiri terus. Temenin dong. Hihi, meskipun itu ada benernya, namun bukan itu maksudnya. Mengapa disebut nggak umum (tidak berarti cuma Ane sendiri yang melakukan yak), karena Ane <em>record</em> rute sepedaanku menggunakan aplikasi di <em>smartphone</em>. Aplikasi yang Ane pakai namanya Strava. Alasan memilih Strava cukup simpel, karena sepertinya ada teman yang menggunakan juga. Jadi, sangat dimungkinkan banyak aplikasi serupa yang lebih <em>recommended</em>.
 </p>
 <p>
-Dari Strava ini, kalian bisa <em>download</em> rute sepedaan (lari, jalan, renang, dan beberapa aktivitas lain juga sebenarnya) dalam format <em>file</em> *.gpx. Terkait cara mengunduhnya, kalian bisa lakukan dengan login dulu ke www.strava.com, lalu masuk ke halaman "Activities".
+Dari Strava ini, kalian bisa <em>download</em> rute sepedaan (lari, jalan, renang, dan beberapa aktivitas lain juga sebenarnya) dalam format <em>file</em> *.gpx. Terkait cara mengunduhnya, kalian bisa lakukan dengan login dulu ke strava[.]com, lalu masuk ke halaman "Activities".
 </p>
 <p>
 Nah, mulai dari sinilah sebenarnya inti tulisan ini. Memanfaatkan data hasil <em>track</em> sepedaan menjadi sesuatu.
@@ -37,7 +37,7 @@ Kalau kalian buka data *.gpx <em>tracks</em> Strava akan muncul kurang lebih 5 <
 </p>
 ![isi-file-gpx-dari-strava_tracks-dan-routes](../../images/manfaat-sepedaan/isi-file-gpx-dari-strava_tracks-dan-routes.jpg)
 <p>
-Dari data track_points, kalian sebenarnya bisa belajar (bagi yang belum tahu yak) menghitung sudut perubahan tiap titik. Caranya menggunakan QGIS Expression, ya mirip-mirip dengan tulisan Ane di Spasialkan.Com, yang sampe Ane buat series jadi empat tulisan. Hehe. Ke sini dulu yak kalau mau baca-baca: <a href="https://spasialkan.com/category/qgis-expressions" title="Series QGIS Expression Spasialkan.COM" target="_blank">Series QGIS Expression Spasialkan.COM</a>.
+Dari data track_points, kalian sebenarnya bisa belajar (bagi yang belum tahu yak) menghitung sudut perubahan tiap titik. Caranya menggunakan QGIS Expression, ya mirip-mirip dengan tulisan Ane di <a href="https://spasialkan.com" title="spasialkan.com" target="_blank">spasialkan.com</a>, yang sampe Ane buat series jadi empat tulisan. Hehe. Ke sini dulu yak kalau mau baca-baca: <a href="https://spasialkan.com/category/qgis-expressions" title="Series QGIS Expression Spasialkan.COM" target="_blank">Series QGIS Expression Spasialkan.COM</a>.
 </p>
 <p>
 Seperti ini kurang lebih expression-nya:
@@ -73,3 +73,6 @@ Terdapat empat plugin LeafletJS yang Ane gunakan, berikut daftarnya:
 Nah, terakhir, berikut adalah hasil akhir dari visualisasi <em>track</em> sepedaan Ane:
 </p>
  <iframe src="https://rifkifau.github.io/visualisasi-animasi-track-sepeda" height="500px" width="100%" frameborder="0"></a></iframe>
+<p>
+Entah penting atau tidak bagi Ente, btw misi merampungkan tulisan ini sebelum genap seminggu di Jakarta dinyatakan berhasil, berhasil, berhasil hore.
+</p>
