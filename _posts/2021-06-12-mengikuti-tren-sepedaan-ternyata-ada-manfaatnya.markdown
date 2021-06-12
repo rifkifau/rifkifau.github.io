@@ -6,9 +6,9 @@ tags:   [ Tren, Sepeda, Manfaat, Visualisasi, Data, Track ]
 ---
 <p class="intro"><span class="dropcap">S</span>ebelum genap seminggu di Jakarta* adalah target yang mesti Ane kejar untuk menyelesaikan tulisan ini. Kalau tidak dipaksa emang terbawa suasana males terus. Lha wong ini aja pelarian karena bingung dan males mau ngisi apa lagi di blog <a href="https://spasialkan.com" title="spasialkan.com">spasialkan.com</a>, di <a href="https://www.instagram.com/webgisindonesia" title="Instagram WebGIS Indonesia">Instagram WebGIS Indonesia</a>, di <a href="https://www.youtube.com/marispasialkan" title="channel youtube Mari Spasialkan">channel youtube Mari Spasialkan</a>, dan beberapa media lainnya. Kebanyakan media tapi update e mood-mood-an.
 </p>
-<p>
+<sup>
 *Ane emang baru diminggu awal Juni ini kembali ke Jakarta setelah WFH di kampung halaman selama hampir dua bulan lamanya.
-</p>
+</sup>
 <p>
 -----
 Sekitar pertengahan bulan Agustus 2020 lalu Ane memutuskan untuk membeli sepeda lipat. Sempat menjadi bahan omongan temen karena warnanya yang kuning. Fotonya aku lampirkan dibawah yak.
@@ -40,9 +40,9 @@ Dari data track_points, kalian sebenarnya juga bisa belajar (bagi yang belum tah
 <p>
 Seperti ini kurang lebih expression-nya:
 </p>
-<p>
+<code>
 degrees(azimuth(start_point($geometry), end_point(geometry(get_feature('nama-layer', 'track_seg_point_id',  "track_seg_point_id"+1  )))))
-</p>
+</code>
 <p>
 -----
 Okay, lanjut terkait visualisasi data <em>track</em>nya. Pertama yang Ane lakukan adalah meng<em>export</em> data <em>track</em> menjadi format *.geojson. Baru kemudian mengedit data geojson <em>track</em> tersebut. Apa aja bentuk edit yang dilakukan? (i) mengapus beberapa bagian awal dan akhir dari <em>track</em>, ya biar nggak begitu ketahuan posisi pasti kost-kostan Ane, (ii) menghapus beberapa <em>track</em> bagian tujuan sepedaan, karena ada yang tujuannya adalah kost teman, jadi ada baiknya dihilangkan biar tidak banyak orang tau, (iii) menghapus, nenambah dan menggeser <em>vertex</em>/<em>node</em>, terutama di beberapa area yang <em>track</em>nya tidak terakam atau terekam awut-awutan (bisa karena pas sepedaan salah jalan, istirahat sejenak, atau lainnya), seperti ini nih maksudnya:
@@ -60,10 +60,12 @@ Di sini tidak akan Ane bahas rinci terkait scriptnya seperti apa, tapi gambaran 
 ![array-of-object-data-track-sepedaan](../../images/manfaat-sepedaan/array-of-object-data-track-sepedaan.jpg)
 <p>
 Terdapat empat plugin leaflet yang Ane gunakan, berikut daftarnya:
-1. Leaflet StyledLayerControl, digunakan untuk membuat layer control yang terdiri dari beberapa group (dalam konteks ini grup berdasarkan nama track),
-2. Leaflet Polyline SnakeAnim, digunakan untuk membuat animasi track menyerupai ular yang sedang merayap, karena itulah nama layer hasil animasinya Ane namakan “Slithering Snake”,
-3. Leaflet Ant Path, digunakan untuk membuat animasi track seperti jalur semut atau semut yang jalan berbaris gitu,
-4. Leaflet MovingMarker, digunakan untuk membuat animasi marker (anggap saja sepeda) yang bergerak sesuai/mengikuti track.
+  <ul>
+    <li>Leaflet StyledLayerControl, digunakan untuk membuat layer control yang terdiri dari beberapa group (dalam konteks ini grup berdasarkan nama track),</li>
+    <li>Leaflet Polyline SnakeAnim, digunakan untuk membuat animasi track menyerupai ular yang sedang merayap, karena itulah nama layer hasil animasinya Ane namakan “Slithering Snake”,</li>
+    <li>Leaflet Ant Path, digunakan untuk membuat animasi track seperti jalur semut atau semut yang jalan berbaris gitu,</li>
+    <li>Leaflet MovingMarker, digunakan untuk membuat animasi marker (anggap saja sepeda) yang bergerak sesuai/mengikuti track.</li>
+  </ul>
 </p>
 <p>
 Nah, terakhir, berikut adalah hasil akhir dari visualisasi track sepedaan Ane:
