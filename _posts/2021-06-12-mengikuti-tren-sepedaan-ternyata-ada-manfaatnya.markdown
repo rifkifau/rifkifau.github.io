@@ -54,10 +54,10 @@ Okay, lanjut terkait visualisasi data <em>track</em>nya. Pertama yang Ane lakuka
 Sekilas info, total ada 11 <em>tracks</em> yang tersimpan diakun Strava Ane. Adapun jarak total yang terekam adalah 254.2 km, dengan <em>track</em> terpanjang adalah 28.1 km.
 </p>
 <p>
-<em>Software</em> berikutnya yang Ane gunakan adalah Visual Studio Code dan Browser Chrome. Keduanya digunakan untuk membuat visualisasi dalam bentuk WebGIS dengan memanfaatkan <em>librar<emy</em> Javascript yang cukup populer. Yak, Leaflet JS.
+<em>Software</em> berikutnya yang Ane gunakan adalah Visual Studio Code dan Browser Chrome. Keduanya digunakan untuk membuat visualisasi dalam bentuk WebGIS dengan memanfaatkan <em>library</em> Javascript yang cukup populer. Yak, Leaflet JS.
 </p>
 <p>
-Di sini tidak akan Ane bahas rinci terkait scriptnya seperti apa, tapi gambaran kasar saja mengenai struktur data dan plugin Leaflet yang digunakan. Dari 11 data <em>track</em> yang sudah berformat *.geojson, Ane ambil bagian “coordinates”, kemudian membuatnya menjadi array object. Oh ya, pada saat <em>export</em> data dari layer *.gpx menjadi *.geojson, opsi ‘Geometry type’nya Ane ganti ‘LineString’ sekaligus <em>uncheck</em> bagian ‘Include z-dimension’. Dengan menghilangkan z-dimension ini, maka isi “coordinates” dalam file geojson hanya [x, y] saja, bukan lagi [x, y, z]. Berikut adalah struktur dari array object rute sepeda yang Ane simpan dalam variable.
+Di sini tidak akan Ane bahas rinci terkait <em>script</em>nya seperti apa, tapi gambaran kasar saja mengenai struktur data dan <em>plugin</em> Leaflet yang digunakan. Dari 11 data <em>track</em> yang sudah berformat *.geojson, Ane ambil bagian “coordinates”, kemudian membuatnya menjadi array object. Oh ya, pada saat <em>export</em> data dari layer *.gpx menjadi *.geojson, opsi ‘Geometry type’nya Ane ganti ‘LineString’ sekaligus <em>uncheck</em> bagian ‘Include z-dimension’. Dengan menghilangkan z-dimension ini, maka isi “coordinates” dalam file geojson hanya [x, y] saja, bukan lagi [x, y, z]. Berikut adalah struktur dari array object rute sepeda yang Ane simpan dalam variable.
 </p>
 ![array-of-object-data-track-sepedaan](../../images/manfaat-sepedaan/array-of-object-data-track-sepedaan.jpg)
 <p>
