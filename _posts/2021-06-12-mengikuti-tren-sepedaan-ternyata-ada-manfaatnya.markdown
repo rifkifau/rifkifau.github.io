@@ -11,14 +11,14 @@ tags:   [ Tren, Sepeda, Manfaat, Visualisasi, Data, Track ]
 </sup>
 <hr>
 <p>
-Sekitar pertengahan bulan Agustus 2020 lalu Ane memutuskan untuk membeli sepeda lipat. Sempat menjadi bahan omongan temen karena warnanya yang kuning. Fotonya aku lampirkan dibawah yak.
+Sekitar pertengahan bulan Agustus 2020 lalu Ane memutuskan untuk membeli sepeda lipat. Sempat menjadi bahan omongan teman karena warnanya yang kuning. Fotonya aku lampirkan dibawah yak.
 </p>
 ![sepeda-ecosmo-9-rifkifau](../../images/manfaat-sepedaan/sepeda-ecosmo-9-rifkifau.jpg)
 <p>
 Selain karena tren, sebenarnya sudah cukup lama juga kepengen beli sepeda. Awalnya tertarik karena merasa bakal membantu mobilitas dari kost ke tempat kerja. Kalau dihitung-hitung nih, secara jarak tergolong nanggung. Ngojol kok lumayan dekat, tapi kalau jauh kok jalan. Eh kalau jalan kok jauh maksudnya.
 </p>
 <p>
-Selain beberapa kali Ane pakai pergi-pulang kerja, periode awal beli semangat tuh sepedaan muter-muter. Seminggu bisa dua kali. Tapi namanya juga manusia ya (haha), makin lama makin males dong.
+Selain beberapa kali Ane pakai untuk pergi-pulang kerja, diperiode awal beli, semangat tuh sepedaan muter-muter. Seminggu bisa dua kali. Tapi namanya juga manusia ya (haha), makin lama makin males dong.
 </p>
 <p>
 Terlepas dari semua itu, sepedaan yang Ane lakukan bukanlah sepedaan pada umumnya. Ya, karena Ane sepedaan sendiri terus. Temenin dong. Hihi, meskipun itu ada benernya, namun bukan itu maksudnya. Kenapa Ane sebut nggak umum (tidak berarti cuma aku sendiri yang melakukan yak), karena aku <em>record</em> rute sepedaanku menggunakan aplikasi di <em>smartphone</em>. Aplikasi yang aku pakai namanya Strava. Mengapa pakai itu, simpel, karena sepertinya ada teman yang menggunakan juga. Jadi, sangat dimungkinkan banyak yang lebih <em>recommended</em> yak.
@@ -55,7 +55,7 @@ Total ada 11 <em>tracks</em> yang tersimpan diakun Strava Ane. Adapun jarak tota
 <em>Software</em> berikutnya yang Ane gunakan adalah Visual Studio Code dan Browser Chrome. Keduanya digunakan untuk membuat visualisasi dalam bentuk WebGIS dengan memanfaatkan library Javascript yang cukup popular. Yak, Leaflet JS.
 </p>
 <p>
-Di sini tidak akan Ane bahas rinci terkait scriptnya seperti apa, tapi gambaran kasar saja mengenai struktur data dan plugin Leaflet yang digunakan. Dari 11 data <em>track</em> yang sudah berformat *.geojson, Ane ambil bagian “coordinates”, kemudian membuatnya menjadi array object. Oh ya, pada saat export data dari layer *.gpx menjadi *.geojson, opsi ‘Geometry type’nya Ane ganti ‘LineString’ sekaligus uncheck bagian ‘Include z-dimension’. Dengan menghilangkan z-dimension ini, maka isi “coordinates” dalam file geojson hanya [x,y] saja, bukan lagi [x, y, z]. Berikut adalah struktur dari array obyek rute sepeda yang Ane simpan dalam variable.
+Di sini tidak akan Ane bahas rinci terkait scriptnya seperti apa, tapi gambaran kasar saja mengenai struktur data dan plugin Leaflet yang digunakan. Dari 11 data <em>track</em> yang sudah berformat *.geojson, Ane ambil bagian “coordinates”, kemudian membuatnya menjadi array object. Oh ya, pada saat export data dari layer *.gpx menjadi *.geojson, opsi ‘Geometry type’nya Ane ganti ‘LineString’ sekaligus <em>uncheck</em> bagian ‘Include z-dimension’. Dengan menghilangkan z-dimension ini, maka isi “coordinates” dalam file geojson hanya [x,y] saja, bukan lagi [x, y, z]. Berikut adalah struktur dari array obyek rute sepeda yang Ane simpan dalam variable.
 </p>
 ![array-of-object-data-track-sepedaan](../../images/manfaat-sepedaan/array-of-object-data-track-sepedaan.jpg)
 <p>
