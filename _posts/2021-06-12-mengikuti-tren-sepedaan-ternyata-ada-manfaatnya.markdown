@@ -63,8 +63,8 @@ Di sini tidak akan Ane bahas rinci terkait <em>script</em>nya seperti apa, tapi 
 <p>
 Terdapat empat plugin LeafletJS yang Ane gunakan, berikut daftarnya:
   <ul>
-    <li>Leaflet StyledLayerControl, digunakan untuk membuat layer control yang terdiri dari beberapa group (dalam konteks ini grup berdasarkan nama <em>track</em>),</li>
-    <li>Leaflet Polyline SnakeAnim, digunakan untuk membuat animasi <em>track</em> menyerupai ular yang sedang merayap, karena itulah nama layer hasil animasinya Ane namakan “Slithering Snake”,</li>
+    <li>Leaflet StyledLayerControl, digunakan untuk membuat <em>layer control</em> yang terdiri dari beberapa <em>group</em> (dalam konteks ini grup berdasarkan nama <em>track</em>),</li>
+    <li>Leaflet Polyline SnakeAnim, digunakan untuk membuat animasi <em>track</em> menyerupai ular yang sedang merayap, karena itulah <em>layer</em> hasil animasinya Ane namakan “Slithering Snake”,</li>
     <li>Leaflet Ant Path, digunakan untuk membuat animasi <em>track</em> seperti jalur semut atau semut yang jalan berbaris gitu,</li>
     <li>Leaflet MovingMarker, digunakan untuk membuat animasi <em>marker</em> (anggap saja sepeda) yang bergerak sesuai/mengikuti <em>track</em>.</li>
   </ul>
