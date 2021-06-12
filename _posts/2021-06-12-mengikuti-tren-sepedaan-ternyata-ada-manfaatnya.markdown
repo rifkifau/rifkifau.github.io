@@ -4,7 +4,7 @@ title:  "Mengikuti Tren Sepedaan, Ternyata Ada Manfaatnya"
 date:   2021-06-12
 tags:   [ Tren, Sepeda, Manfaat, Visualisasi, Data, Track ]
 ---
-<p class="intro"><span class="dropcap">S</span>ebelum genap seminggu di Jakarta* adalah target yang mesti Ane kejar untuk menyelesaikan tulisan ini. Kalau tidak dipaksa emang terbawa suasana males terus. Lha wong ini aja pelarian karena bingung dan males mau ngisi apa lagi di blog <a href="https://spasialkan.com" title="spasialkan.com">spasialkan.com</a>, di <a href="https://www.instagram.com/webgisindonesia" title="Instagram WebGIS Indonesia">Instagram WebGIS Indonesia</a>, di <a href="https://www.youtube.com/marispasialkan" title="channel youtube Mari Spasialkan">channel youtube Mari Spasialkan</a>, dan beberapa media lainnya. Kebanyakan media tapi update e mood-mood-an.
+<p class="intro"><span class="dropcap">S</span>ebelum genap seminggu di Jakarta* adalah target yang mesti Ane kejar untuk menyelesaikan tulisan ini. Kalau tidak dipaksa emang terbawa suasana males terus. Lha wong ini aja pelarian karena bingung dan males mau ngisi apa lagi di blog <a href="https://spasialkan.com" title="spasialkan.com" target="_blank">spasialkan.com</a>, di <a href="https://www.instagram.com/webgisindonesia" title="Instagram WebGIS Indonesia" target="_blank">Instagram WebGIS Indonesia</a>, di <a href="https://www.youtube.com/marispasialkan" title="channel youtube Mari Spasialkan" target="_blank">channel youtube Mari Spasialkan</a>, dan beberapa media lainnya. Kebanyakan media tapi update e mood-mood-an.
 </p>
 <sup>
 *Ane emang baru diminggu awal Juni ini kembali ke Jakarta setelah WFH di kampung halaman selama hampir dua bulan lamanya.
@@ -37,7 +37,7 @@ Kalau kalian buka data *.gpx <em>tracks</em> Strava akan muncul kurang lebih 5 <
 </p>
 ![isi-file-gpx-dari-strava_tracks-dan-routes](../../images/manfaat-sepedaan/isi-file-gpx-dari-strava_tracks-dan-routes.jpg)
 <p>
-Dari data track_points, kalian sebenarnya bisa belajar (bagi yang belum tahu yak) menghitung sudut perubahan tiap titik. Caranya menggunakan QGIS Expression, ya mirip-mirip dengan tulisan Ane di Spasialkan.Com, yang sampe Ane buat series jadi empat tulisan. Hehe. Ke sini dulu yak kalau mau baca-baca: <a href="https://spasialkan.com/category/qgis-expressions" title="Series QGIS Expression Spasialkan.COM">Series QGIS Expression Spasialkan.COM</a>.
+Dari data track_points, kalian sebenarnya bisa belajar (bagi yang belum tahu yak) menghitung sudut perubahan tiap titik. Caranya menggunakan QGIS Expression, ya mirip-mirip dengan tulisan Ane di Spasialkan.Com, yang sampe Ane buat series jadi empat tulisan. Hehe. Ke sini dulu yak kalau mau baca-baca: <a href="https://spasialkan.com/category/qgis-expressions" title="Series QGIS Expression Spasialkan.COM" target="_blank">Series QGIS Expression Spasialkan.COM</a>.
 </p>
 <p>
 Seperti ini kurang lebih expression-nya:
