@@ -72,4 +72,4 @@ Terdapat empat plugin LeafletJS yang Ane gunakan, berikut daftarnya:
 <p>
 Nah, terakhir, berikut adalah hasil akhir dari visualisasi <em>track</em> sepedaan Ane:
 </p>
- <iframe src="https://rifkifau.github.io/visualisasi-animasi-track-sepeda" height="100%" width="100%" frameborder="0"></a></iframe>
+ <iframe src="https://rifkifau.github.io/visualisasi-animasi-track-sepeda" height="500px" width="100%" frameborder="0"></a></iframe>
