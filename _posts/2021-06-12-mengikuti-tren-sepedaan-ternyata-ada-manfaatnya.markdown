@@ -9,8 +9,8 @@ tags:   [ Tren, Sepeda, Manfaat, Visualisasi, Data, Track ]
 <sup>
 *Ane emang baru diminggu awal Juni ini kembali ke Jakarta setelah WFH di kampung halaman selama hampir dua bulan lamanya.
 </sup>
+<hr>
 <p>
------
 Sekitar pertengahan bulan Agustus 2020 lalu Ane memutuskan untuk membeli sepeda lipat. Sempat menjadi bahan omongan temen karena warnanya yang kuning. Fotonya aku lampirkan dibawah yak.
 </p>
 ![sepeda-ecosmo-9-rifkifau](../../images/manfaat-sepedaan/sepeda-ecosmo-9-rifkifau.jpg)
@@ -41,10 +41,10 @@ Dari data track_points, kalian sebenarnya juga bisa belajar (bagi yang belum tah
 Seperti ini kurang lebih expression-nya:
 </p>
 <code>
-degrees(azimuth(start_point($geometry), end_point(geometry(get_feature('nama-layer', 'track_seg_point_id',  "track_seg_point_id"+1  )))))
+degrees( azimuth( start_point( $geometry ), end_point( geometry( get_feature( 'nama-layer', 'track_seg_point_id',  "track_seg_point_id"+1  )))))
 </code>
+<hr>
 <p>
------
 Okay, lanjut terkait visualisasi data <em>track</em>nya. Pertama yang Ane lakukan adalah meng<em>export</em> data <em>track</em> menjadi format *.geojson. Baru kemudian mengedit data geojson <em>track</em> tersebut. Apa aja bentuk edit yang dilakukan? (i) mengapus beberapa bagian awal dan akhir dari <em>track</em>, ya biar nggak begitu ketahuan posisi pasti kost-kostan Ane, (ii) menghapus beberapa <em>track</em> bagian tujuan sepedaan, karena ada yang tujuannya adalah kost teman, jadi ada baiknya dihilangkan biar tidak banyak orang tau, (iii) menghapus, nenambah dan menggeser <em>vertex</em>/<em>node</em>, terutama di beberapa area yang <em>track</em>nya tidak terakam atau terekam awut-awutan (bisa karena pas sepedaan salah jalan, istirahat sejenak, atau lainnya), seperti ini nih maksudnya:
 </p>
 ![perbaikan-dan-edit-tracks](../../images/manfaat-sepedaan/perbaikan-dan-edit-tracks.jpg)
