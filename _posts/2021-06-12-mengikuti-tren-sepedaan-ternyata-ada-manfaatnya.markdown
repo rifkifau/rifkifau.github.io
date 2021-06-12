@@ -11,23 +11,25 @@ tags:   [ Tren, Sepeda, Manfaat, Visualisasi, Data, Track ]
 </sup>
 <hr>
 <p>
-Sekitar pertengahan bulan Agustus 2020 lalu Ane memutuskan untuk membeli sepeda lipat. Sempat menjadi bahan omongan teman karena warnanya yang kuning. Fotonya Ane lampirkan dibawah yak.
+Sekitar pertengahan bulan Agustus 2020 lalu Ane memutuskan untuk membeli sepeda lipat. Sempat menjadi bahan omongan teman karena warnanya yang kuning. Fotonya Ane lampirkan di bawah yak.
 </p>
 ![sepeda-ecosmo-9-rifkifau](../../images/manfaat-sepedaan/sepeda-ecosmo-9-rifkifau.jpg)
 <p>
-Selain karena tren, sebenarnya sudah cukup lama juga kepengen beli sepeda. Awalnya tertarik karena merasa bakal membantu mobilitas dari kost ke tempat kerja. Kalau dihitung-hitung nih, secara jarak tergolong nanggung. Ngojol kok lumayan dekat, tapi kalau jauh kok jalan. Eh kalau jalan kok jauh maksudnya.
+Disamping karena tren, sebenarnya sudah cukup lama juga kepengen beli sepeda. Awalnya tertarik karena merasa bakal membantu mobilitas dari kost ke tempat kerja. Kalau dihitung-hitung nih, secara jarak tergolong nanggung. Ngojol kok lumayan dekat, tapi kalau jauh kok jalan. Eh kalau jalan kok jauh maksudnya.
 </p>
 <p>
 Selain beberapa kali Ane pakai untuk pergi-pulang kerja, diperiode awal beli, semangat tuh sepedaan muter-muter. Seminggu bisa dua kali. Tapi namanya juga manusia ya (haha), makin lama makin males dong.
 </p>
 <p>
-Terlepas dari semua itu, sepedaan yang Ane lakukan bukanlah sepedaan pada umumnya. Ya, karena Ane sepedaan sendiri terus. Temenin dong. Hihi, meskipun itu ada benernya, namun bukan itu maksudnya. Kenapa disebut nggak umum (tidak berarti cuma Ane sendiri yang melakukan yak), karena Ane <em>record</em> rute sepedaanku menggunakan aplikasi di <em>smartphone</em>. Aplikasi yang Ane pakai namanya Strava. Mengapa pakai itu, simpel, karena sepertinya ada teman yang menggunakan juga. Jadi, sangat dimungkinkan banyak yang lebih <em>recommended</em> yak.
+Terlepas dari semua itu, sepedaan yang Ane lakukan bukanlah sepedaan pada umumnya. Ya, karena Ane sepedaan sendiri terus. Temenin dong. Hihi, meskipun itu ada benernya, namun bukan itu maksudnya. Mengapa disebut nggak umum (tidak berarti cuma Ane sendiri yang melakukan yak), karena Ane <em>record</em> rute sepedaanku menggunakan aplikasi di <em>smartphone</em>. Aplikasi yang Ane pakai namanya Strava. Alasan memilih Strava simpel, karena sepertinya ada teman yang menggunakan juga. Jadi, sangat dimungkinkan banyak aplikasi serupa yang lebih <em>recommended</em>.
 </p>
 <p>
 Dari Strava ini, kalian bisa <em>download</em> rute sepedaan (lari, jalan, renang, dan beberapa aktivitas lain juga sebenarnya) dalam format <em>file</em> *.gpx. Terkait cara mengunduhnya, kalian bisa lakukan dengan login dulu ke www.strava.com.
 </p>
 <p>
 Nah dari sinilah sebenarnya inti tulisan ini. Memanfaatkan data hasil <em>track</em> sepedaan menjadi sesuatu.
+</p>
+<p>
 Sebelum masuk kepembahasan mengenai visualisasi seperti apa yang bisa kita buat dengan mengolah <em>file</em> yang berformat *.gpx tadi. Pertama perlu Ane jelaskan dulu <em>software</em> yang bisa digunakan untuk pengolahan awal. Di sini Ane menggunakan QGIS.
 </p>
 <p>
