@@ -6,13 +6,13 @@ tags:   [ Tren, Sepeda, Manfaat, Visualisasi, Data, Track ]
 ---
 <p class="intro"><span class="dropcap">S</span>ebelum genap seminggu di Jakarta* adalah target yang mesti Ane kejar untuk menyelesaikan tulisan ini. Kalau tidak dipaksa emang terbawa suasana males terus. Lha wong ini aja pelarian karena bingung dan males mau ngisi apa lagi di blog spasialkan.com, di Instagram WebGIS Indonesia, di channel youtube Mari Spasialkan, dan beberapa media lainnya. Kebanyakan media tapi update e mood-mood-an.
 </p>
-<p> 
+
 *Ane emang baru diminggu awal Juni ini kembali ke Jakarta setelah WFH di kampung halaman selama hampir dua bulan lamanya.
-</p>
-<p>
+
+
 -----
 Sekitar pertengahan bulan Agustus 2020 lalu Ane memutuskan untuk membeli sepeda lipat. Sempat menjadi bahan omongan temen karena warnanya yang kuning. Fotonya aku lampirkan dibawah yak.
-</p>
+
 ![sepeda-ecosmo-9-rifkifau](../../images/manfaat-sepedaan/sepeda-ecosmo-9-rifkifau.jpg)
 <p>
 Selain karena tren, sebenarnya sudah cukup lama juga kepengen beli sepeda. Awalnya tertarik karena merasa bakal membantu mobilitas dari kost ke tempat kerja. Kalau dihitung-hitung nih, secara jarak tergolong nanggung. Ngojol kok lumayan dekat, tapi kalau jauh kok jalan. Eh kalau jalan kok jauh maksudnya.
@@ -33,7 +33,7 @@ Sebelum masuk kepembahasan mengenai visualisasi seperti apa yang bisa kita buat 
 <p>
 Kalau kalian buka data *.gpx-nya akan muncul kurang lebih 5 layer berikut, dan yang bisa kalian manfaatkan tentu yang ada featuresnya. Lebih spesifik, yang Ane pakai adalah data tracks saja. Meskipun data atributnya kosong semua kecuali kolom ‘name’ tetap aman karena Ane hanya butuh geometrinya. Bagi kalian yang butuh attribute data lebih lengkap bisa cek pada layer track_points. Di situ terdapat informasi elevasi dan waktu juga.
 </p>
-![isi-file-gpx-dari-strava_tracks-dan-routes](../../images/manfaat-sepedaan/isi-file-gpx-dari-strava_tracks-dan-routes.png)
+![isi-file-gpx-dari-strava_tracks-dan-routes](../../images/manfaat-sepedaan/isi-file-gpx-dari-strava_tracks-dan-routes.jpg)
 <p>
 Dari data track_points, kalian sebenarnya juga bisa belajar (bagi yang belum tahu yak) menghitung sudut perubahan tiap titik. Caranya menggunakan QGIS Expression, ya mirip-mirip dengan tulisan Ane di Spasialkan.Com, yang sampe Ane buat series jadi empat tulisan. Hehe.
 </p>
@@ -57,7 +57,7 @@ Software berikutnya yang Ane gunakan adalah Visual Studio Code dan Browser Chrom
 <p>
 Di sini tidak akan Ane bahas rinci terkait scriptnya seperti apa, tapi gambaran kasar saja mengenai struktur data dan plugin Leaflet yang digunakan. Dari 11 data track yang sudah berformat *.geojson, Ane ambil bagian “coordinates”, kemudian membuatnya menjadi array object. Oh ya, pada saat export data dari layer *.gpx menjadi *.geojson, opsi ‘Geometry type’nya Ane ganti ‘LineString’ sekaligus uncheck bagian ‘Include z-dimension’. Dengan menghilangkan z-dimension ini, maka isi “coordinates” dalam file geojson hanya [x,y] saja, bukan lagi [x, y, z]. Berikut adalah struktur dari array obyek rute sepeda yang Ane simpan dalam variable.
 </p>
-![array-of-object-data-track-sepedaan](../../images/array-of-object-data-track-sepedaan.png)
+![array-of-object-data-track-sepedaan](../../images/array-of-object-data-track-sepedaan.jpg)
 <p>
 Terdapat empat plugin leaflet yang Ane gunakan, berikut daftarnya:
 •	Leaflet StyledLayerControl, digunakan untuk membuat layer control yang terdiri dari beberapa group (dalam konteks ini grup berdasarkan nama track),
