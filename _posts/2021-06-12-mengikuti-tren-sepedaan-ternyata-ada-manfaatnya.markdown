@@ -14,6 +14,9 @@ tags:   [ Tren, Sepeda, Manfaat, Visualisasi, Data, Track ]
 Sekitar pertengahan bulan Agustus 2020 lalu Ane memutuskan untuk membeli sepeda lipat. Sempat menjadi bahan omongan teman-teman karena warnanya yang kuning ngejreng. Bagi yang kepo, fotonya Ane lampirkan di bawah ini yak.
 </p>
 ![sepeda-ecosmo-9-rifkifau](../../images/manfaat-sepedaan/sepeda-ecosmo-9-rifkifau.jpg)
+<sup>
+Gimana menurutmu, keren nggak? Untung nggak ada Ane difotonya, kalau ada bisa basah dah. (lho eh, haha).
+</sup>
 <p>
 Disamping karena tren, sebenarnya sudah cukup lama juga kepengen beli sepeda. Awalnya tertarik karena merasa bakal membantu mobilitas dari kost ke tempat kerja. Kalau dihitung-hitung nih, secara jarak tergolong nanggung. Ngojol kok lumayan dekat, tapi kalau jauh kok jalan. Eh, kalau jalan kok jauh maksudnya.
 </p>
