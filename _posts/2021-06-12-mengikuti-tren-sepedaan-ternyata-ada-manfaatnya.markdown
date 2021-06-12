@@ -4,7 +4,7 @@ title:  "Mengikuti Tren Sepedaan, Ternyata Ada Manfaatnya"
 date:   2021-06-12
 tags:   [ Tren, Sepeda, Manfaat, Visualisasi, Data, Track ]
 ---
-<p class="intro"><span class="dropcap">S</span>ebelum genap seminggu di Jakarta* adalah target yang mesti Ane kejar untuk menyelesaikan tulisan ini. Kalau tidak dipaksa emang terbawa suasana males terus. Lha wong ini aja pelarian karena bingung dan males mau ngisi apa lagi di blog <a href="https://spasialkan.com" title="spasialkan.com" target="_blank">spasialkan.com</a>, di <a href="https://www.instagram.com/webgisindonesia" title="Instagram WebGIS Indonesia" target="_blank">Instagram WebGIS Indonesia</a>, di <a href="https://www.youtube.com/marispasialkan" title="channel youtube Mari Spasialkan" target="_blank">channel youtube Mari Spasialkan</a>, dan beberapa media lainnya. Kebanyakan media tapi update e mood-mood-an.
+<p class="intro"><span class="dropcap">S</span>ebelum genap seminggu di Jakarta* adalah target yang mesti Ane kejar untuk menyelesaikan tulisan ini. Kalau tidak dipaksa emang terbawa suasana males terus. Lha wong ini aja pelarian karena bingung dan males mau ngisi apa lagi di blog <a href="https://spasialkan.com" title="spasialkan.com" target="_blank">spasialkan.com</a>, di <a href="https://www.instagram.com/webgisindonesia" title="Instagram WebGIS Indonesia" target="_blank">Instagram WebGIS Indonesia</a>, di <a href="https://www.youtube.com/marispasialkan" title="channel youtube Mari Spasialkan" target="_blank">channel youtube Mari Spasialkan</a>, dan beberapa media lainnya. Kebanyakan media tapi <em>update</em> <em>mood-mood</em>an.
 </p>
 <sup>
 *Ane emang baru diminggu awal Juni ini kembali ke Jakarta setelah WFH di kampung halaman selama hampir dua bulan lamanya.
