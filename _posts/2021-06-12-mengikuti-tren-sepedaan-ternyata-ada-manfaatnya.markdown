@@ -24,7 +24,7 @@ Disamping karena tren, sebenarnya sudah cukup lama juga kepengen beli sepeda. Aw
 Selain beberapa kali Ane pakai untuk pergi-pulang kerja, diperiode awal beli, semangat tuh sepedaan muter-muter. Seminggu bisa dua kali. Tapi namanya juga manusia ya (haha), makin lama makin males dong.
 </p>
 <p>
-Terlepas dari semua itu, fyi, sepedaan yang Ane lakukan bukanlah sepedaan pada umumnya. Ya, karena Ane sepedaan sendiri terus. Temenin dong. Hihi, meskipun itu ada benernya, namun bukan itu maksudnya. Mengapa disebut nggak umum (tidak berarti cuma Ane sendiri yang melakukan yak), karena Ane <em>record</em> rute sepedaanku menggunakan aplikasi di <em>smartphone</em>. Aplikasi yang Ane pakai namanya Strava. Alasan memilih Strava cukup simpel, karena sepertinya ada teman yang menggunakan juga. Jadi, sangat dimungkinkan banyak aplikasi serupa yang lebih <em>recommended</em>.
+Terlepas dari semua itu, fyi, sepedaan yang Ane lakukan bukanlah sepedaan pada umumnya. Ya, karena Ane sepedaan sendiri terus. Temenin dong. Hihi, meskipun itu ada benernya, namun bukan itu maksudnya. Mengapa disebut nggak umum (tidak berarti cuma Ane sendiri yang melakukan yak), karena Ane <em>record</em> rute sepedaan menggunakan aplikasi di <em>smartphone</em>. Aplikasi yang Ane pakai namanya Strava. Alasan memilih Strava cukup simpel, karena sepertinya ada teman yang menggunakan juga. Jadi, sangat dimungkinkan banyak aplikasi serupa yang lebih <em>recommended</em>.
 </p>
 <p>
 Dari Strava ini, kalian bisa <em>download</em> rute sepedaan (lari, jalan, renang, dan beberapa aktivitas lain juga sebenarnya) dalam format <em>file</em> *.gpx. Terkait cara mengunduhnya, kalian bisa lakukan dengan login dulu ke strava[.]com, lalu masuk ke halaman "Activities".
