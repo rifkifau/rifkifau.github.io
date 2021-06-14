@@ -77,5 +77,5 @@ Nah, terakhir, berikut adalah hasil akhir dari visualisasi <em>track</em> sepeda
 </p>
  <iframe src="https://rifkifau.github.io/visualisasi-animasi-track-sepeda" height="500px" width="100%" frameborder="0"></a></iframe>
 <sub>
-Entah penting atau tidak bagi Ente, btw misi merampungkan tulisan ini sebelum genap seminggu di Jakarta dinyatakan berhasil, berhasil, berhasil hore.
+Entah penting atau tidak bagi kalian, btw misi merampungkan tulisan ini sebelum genap seminggu di Jakarta dinyatakan berhasil, berhasil, berhasil hore.
 </sub>
