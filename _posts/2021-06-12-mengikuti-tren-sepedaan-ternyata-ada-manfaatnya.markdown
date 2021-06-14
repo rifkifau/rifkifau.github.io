@@ -15,7 +15,7 @@ Sekitar pertengahan bulan Agustus 2020 lalu Ane memutuskan untuk membeli sepeda 
 </p>
 ![sepeda-ecosmo-9-rifkifau](../../images/manfaat-sepedaan/sepeda-ecosmo-9-rifkifau.jpg)
 <sup>
-Gimana menurutmu, keren nggak? Untung nggak ada Ane difotonya, kalau ada bisa basah dah. (lho eh, haha).
+Gimana menurut kalian, keren nggak? Untung nggak ada Ane di dalam foto, kalau ada bisa basah dah. (lho eh, haha).
 </sup>
 <p>
 Disamping karena tren, sebenarnya sudah cukup lama juga kepengen beli sepeda. Awalnya tertarik karena merasa bakal membantu mobilitas dari kost ke tempat kerja. Kalau dihitung-hitung nih, secara jarak tergolong nanggung. Ngojol kok lumayan dekat, tapi kalau jauh kok jalan. Eh, kalau jalan kok jauh maksudnya.
