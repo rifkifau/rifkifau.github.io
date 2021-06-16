@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Your New Jekyll Site
+comments: false
 ---
 
 <div id="articles">
