@@ -12,7 +12,7 @@ keywords: personal blog, github pages, rifki fauzi, rifkifau, webgis peta digita
       <li>
         <span class="date">{{ post.date | date: '%B %d, %Y' }}</span>
         <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
-        <p>{ post.excerpt | strip_html | truncatewords:70 }</p>
+        <p>{{ post.excerpt | strip_html | truncatewords:70 }}</p>
       </li>
     {% endfor %}
   </ul>
