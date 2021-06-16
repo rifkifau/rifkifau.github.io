@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Contact rifkifau
+comments: false
 ---
 
 <div id="contact">
