@@ -3,6 +3,9 @@ layout: post
 title:  "#BagiPengalaman-1: Cerita Naik Kereta Api Mataram Premium"
 date:   2018-09-02
 tags:   [ Perjalanan, Cerita Hidup, Kisah ]
+desc: Jadi, kemarin (20 Januari 2019) untuk kedua kalinya Ane menjajal Mataram Premium. Adapun rutenya masih sama, yakni Jogja - Jakarta. Bedanya, kali ini tepat milih kursinya, yakni yang arah hadapnya searah dengan jalannya kereta. Cerita dimulai setelah beberapa saat Ane duduk dikursi.
+keywords: cerita, pengalaman, naik kereta api, KAI, Mataram Premium, jogja, yogyakarta, jakarta, indonesia
+image: kereta-api-mataram-premium.jpg
 ---
 
 <p class="intro"><span class="dropcap">S</span>etelah merayakan masa-masa wisudaan S1 beberapa hari kemarin, akhirnya harus kembali lagi ke Ibukota. Ya, kembali sok-sokan hidup mandiri diperantauan dengan berkutat pada web GIS.</p>
