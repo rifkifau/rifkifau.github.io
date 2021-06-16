@@ -3,6 +3,9 @@ layout: post
 title:  "#BagiJepretan-2: Porseni BAPPENAS 2018 dan Lokasinya"
 date:   2018-09-15
 tags:   [ Kerja, Cerita Hidup, Kisah ]
+desc: Rangkaian kegiatan PORSENI BAPPENAS tahun 2018 ini dilaksanakan pada hari Jumat dan Sabtu tanggal 14 dan 15 September 2018. Kegiatan hari Jumat dilangsungkan di BAPPENAS (Jalan Taman Surapati, Jakarta Pusat), sedangkan acara hari Sabtu yang dilangsungkan di halaman dan GOR Gedung MPR RI (Senayan, Jakarta Pusat).
+keywords: porseni, lomba, kegiatan, bappenas, kementerian ppn, indonesia, jakarta, jalan taman surapati, GOR, gedung mpr dpr, senayan
+image: porseni-bappenas.jpg
 ---
 
 <p class="intro"><span class="dropcap">R</span>angkaian kegiatan PORSENI BAPPENAS tahun 2018 ini dilaksanakan pada hari Jumat dan Sabtu tanggal 14 dan 15 September 2018. </p>
