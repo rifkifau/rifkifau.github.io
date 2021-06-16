@@ -3,7 +3,9 @@ layout: post
 title:  "Cara Menyimpan Style Simbol Layer QGIS (qml, sld, qlr)"
 date:   2018-02-01
 tags:   [ Video Tutorial, simbol, peta, qgis ]
-
+desc: Software SIG (dalam konteks ini khususnya QGIS) sebenarnya memiliki fitur yang dapat digunakan untuk menyimpan style simbol layer, yakni file *.qml, *.sld, atau memanfaatkan layer definition file (*.qlr). Dengan menyertakan file simbol ini, maka peta digital yang dibagikan sudah meliputi simbolnya.
+keywords: Video Tutorial, menyimpan, style, simbol, layer, peta, qgis, qml, qlr, sld
+image: save-qgis-symbol-style.jpg
 ---
 
 
