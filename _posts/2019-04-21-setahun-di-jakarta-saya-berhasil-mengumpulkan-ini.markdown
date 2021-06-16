@@ -4,6 +4,9 @@ title:  "Setahun di Jakarta, Saya Berhasil Mengumpulkan Ini"
 subtitle: "Yang Ketiga Menggemparkan Dunia"
 date:   2019-04-21
 tags:   [ Berbagi, Setahun, Merantau, Jakarta ]
+desc: Setelah merantau di Jakarta kurang lebih setahun, ada banyak hal menarik yang Ane peroleh. Di sini akan akan jelaskan apa saja yang Ane dapatkan tersebut, tentunya selain teman, pengalaman, dan ilmu baru. Pokoknya diluar dugaan deh
+keywords: setahun, di jakarta, ibukota, indonesia, kota metropolitan, pengalaman, ilmu, teman, dapat banyak hal, menarik, diluar dugaan, piring, alfamart
+image: setahun-di-jakarta.jpg
 ---
 <p class="intro"><span class="dropcap">S</span>etelah muter-muter Jogja di Minggu pagi yang cerah, dari Kotagede, Sunday Morning (SunMor), Fakultas Geografi UGM, Tugu Jogja, Malioboro, hingga Alun-alun utara, maka kini saatnya menulis cerita tentang setahun di Jakarta.
 </p>
