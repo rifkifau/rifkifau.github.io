@@ -1,7 +1,7 @@
 ---
 layout: default
 title: rifkifau personal blog
-description: Personal Blog Github Pages Rifki Fauzi / WebGIS Enthusiast Yogyakarta Indonesia / Kumpulan Proses Belajar Rifkifau / Berbagi Pengalaman Cerita Foto Jepretan
+desc: Personal Blog Github Pages Rifki Fauzi / WebGIS Enthusiast Yogyakarta Indonesia / Kumpulan Proses Belajar Rifkifau / Berbagi Pengalaman Cerita Foto Jepretan
 keywords: personal blog, github pages, rifki fauzi, rifkifau, webgis peta digital, yogyakarta indonesia, berbagi, pengalaman, cerita, foto, gambar, tutorial
 ---
 
@@ -12,7 +12,7 @@ keywords: personal blog, github pages, rifki fauzi, rifkifau, webgis peta digita
       <li>
         <span class="date">{{ post.date | date: '%B %d, %Y' }}</span>
         <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
-        <p>{% if post.description %}{{ post.description }}{% else %}{{ post.excerpt | strip_html | truncatewords:75 }}{% endif %}</p>
+        <p>{% if post.description %}{{ post.description }}{% else %}{{ post.excerpt | strip_html | truncatewords:70 }}{% endif %}</p>
       </li>
     {% endfor %}
   </ul>
