@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Posts Tags
+comments: false
 ---
 <!-- Get the tag name for every tag on the site and set them
 to the `site_tags` variable. -->
