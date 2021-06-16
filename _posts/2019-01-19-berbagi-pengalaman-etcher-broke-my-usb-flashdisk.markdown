@@ -3,6 +3,9 @@ layout: post
 title:  "#BagiPengalaman-2: Etcher Broke my USB Flashdisk (?)"
 date:   2019-01-19
 tags:   [ Berbagi, Pengalaman, Software, Hardware ]
+desc: Rencananya Ane mau melakukan instalasi OS (Operating System) Ubuntu Desktop di laptop. Nah, tulisan ini akan menceritakan pengalaman Ane menggunakan software Etcher untuk membuat bootable USB flashdisk. Mengapa tidak menggunakan Rufus seperti banyak dijelaskan di tutorial-tutorial?
+keywords: Operating System, Ubuntu Desktop, OS Opensource, tutorial instalasi, bootable, USB flashdisk, Rufus, SOftware Etcher, rusak, kapasitas, format
+image: pengalaman-menggunakan-etcher.jpg
 ---
 <p class="intro"><span class="dropcap">S</span>ore itu, sekitar habis Asar, langit Yogyakarta tampak gelap. Suara rintik hujan mulai terdengar dari dalam rumah. Ya, cukup syahdulah kalau mau ngegalau-galau ria. Tapi untungnya waktu itu tidak Ane lakukan.
 </p>
