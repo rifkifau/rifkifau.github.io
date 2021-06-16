@@ -3,7 +3,7 @@ layout: post
 title:  "Mengikuti Tren Sepedaan, Ternyata Ada Manfaatnya"
 date:   2021-06-12
 tags:   [ Tren, Sepeda, Manfaat, Visualisasi, Data, Track ]
-desc: "Visualisasi WebGIS Data Track/Rute Sepeda dengan Leaflet JS (Moving Marker, Slithering Snake, Marching Ants)"
+desc: "Data Track Sepeda dari aplikasi Strava dapat diunduh menjadi data spasial berformat gpx. Data tersebut selanjutnya dapat diolah menggunakan QGIS dan divisualisasikan menjadi WebGIS Data Track/Rute Sepeda dengan memanfaatkan library Leaflet JS. Contoh bentuk visualisasinya adalah Moving Marker, Slithering Snake, Marching Ants."
 keywords: Tren, Sepeda, Manfaat, Kerja, Visualisasi, Data, Track, Rute, Sepedaan, WebGIS, Leaflet, LeafletJS
 image: manfaat-sepedaan.jpg
 ---
