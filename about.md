@@ -1,6 +1,7 @@
 ---
 layout: default
 title: About rifkifau
+comments: false
 ---
 
 <div class="post">
