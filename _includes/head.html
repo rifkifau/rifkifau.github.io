@@ -28,8 +28,8 @@
     {% else %}
       <meta content="website" property="og:type">
     {% endif %}
-    {% if page.description %}
-      <meta content="{{ page.description }}" property="og:description">
+    {% if page.desc %}
+      <meta content="{{ page.desc }}" property="og:description">
     {% else %}
       <meta content="{{ site.description }}" property="og:description">
     {% endif %}
@@ -58,8 +58,8 @@
     {% if page.url %}
       <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
     {% endif %}
-    {% if page.description %}
-      <meta name="twitter:description" content="{{ page.description }}">
+    {% if page.desc %}
+      <meta name="twitter:description" content="{{ page.desc }}">
     {% else %}
       <meta name="twitter:description" content="{{ site.description }}">
     {% endif %}
