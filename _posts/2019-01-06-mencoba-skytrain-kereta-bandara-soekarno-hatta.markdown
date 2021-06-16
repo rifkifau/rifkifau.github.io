@@ -3,6 +3,9 @@ layout: post
 title:  "#BagiJepretan-3: Menjajal Skytrain & Kereta Bandara Soekarno-Hatta"
 date:   2019-01-06
 tags:   [ Foto, Pengalaman, Jepretan, Skytrain, Kalayang, Bandara, Soetta ]
+desc: Mungkin sudah cukup banyak juga ya yang sudah menjajal Skytrain & Kereta Bandara Soekarno-Hatta, karena memang sudah ada sejak cukup lama. Tapi nggak ada salahnya dong kalau melalui tulisan ini Ane coba sharing beberapa foto (hasil jepretan kamera smartphone jadul) dan cerita pengalaman pertama Ane.
+keywords: Foto, Pengalaman, Jepretan, Skytrain, Kalayang, Bandara, Soetta, Soekarno-Hatta, Railink, Cerita, Pertama kali, Indonesia, Jakarta, Cengkareng
+image: mencoba-skytrain-railink.jpg
 ---
 
 <p class="intro"><span class="dropcap">C</span>erita berawal berkat adanya perjalanan melalui jalur udara dari Bandara Soekarno-Hatta. Pengen sekali rasanya menjajal kereta bandara. Udah itu aja..
