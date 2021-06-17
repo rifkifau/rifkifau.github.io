@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Archive
+desc: Halaman Archive berisikan daftar postingan/tulisan di personal blog rifkifau yang dikelompokkan berdasarkan bulan dan tahun publikasi/uploadnya.
+keywords: Archive, tulisan, postingan, bulan tahun, personal blog, rifkifau, rifki fauzi, WebGIS, Yogyakarta Indonesia, Kumpulan, Berbagi Pengalaman,  Cerita, Tutorial, cara, Foto Jepretan, Belajar
 comments: false
 ---
 
