@@ -1,6 +1,8 @@
 ---
 layout: default
 title: About rifkifau
+desc: Singkatnya, rifkifau adalah seorang pria jebolan salah satu kampus di Yogyakarta. Fokus studinya yang ditempuh selama hampir 5 tahun adalah Kartografi, Penginderaan Jauh, dan Sistem Informasi Geografis. Dipertengahan masa-masa kuliahnya, orang berjaket kuning yang nampak pada foto di atas mulai menemukan minatnya, yakni WebGIS.
+keywords: rifkifau, Rifki Fauzi, Kartografi, Penginderaan Jauh, Sistem Informasi Geografis, SIG, WebGIS, Yogyakarta, Indonesia, Peta, Data Geospasial, Maps
 comments: false
 ---
 
