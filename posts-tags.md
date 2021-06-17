@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Posts Tags
+desc: Halaman posts tags berisikan daftar postingan/tulisan di personal blog rifkifau yang dikelompokkan berdasarkan nama tags-nya.
+keywords: posts, tags, categories, personal blog, rifkifau, rifki fauzi, WebGIS, Yogyakarta Indonesia, Kumpulan, Berbagi Pengalaman,  Cerita, Tutorial, cara, Foto Jepretan, Belajar
 comments: false
 ---
 <!-- Get the tag name for every tag on the site and set them
