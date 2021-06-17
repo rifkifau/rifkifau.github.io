@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Contact rifkifau
+desc: Apapun yang kamu tulis dan kirim lewat form di samping ini, akan langsung masuk ke 'kulkas'nya si rifkifau. Kalau lagi gabut, biasanya langsung dibaca dan direspon. Pokoknya apapun yang pengen kamu sampaikan ke rifkifau, ketik aja lalu kirim. Nggak usah sungkan. Enjoy!
+keywords: contact, hubungi, email, chat, rifkifau, Rifki Fauzi, WebGIS, Github, SIG, Maps Peta, Data Geospasial, media sosial
 comments: false
 ---
 
