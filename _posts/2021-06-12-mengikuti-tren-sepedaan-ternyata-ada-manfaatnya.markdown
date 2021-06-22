@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Mengikuti Tren Sepedaan, Ternyata Ada Manfaatnya"
+subtitle: "WebGIS: Visualisasi Data Track Sepeda dengan Leaflet JS"
 date:   2021-06-12
 tags:   [ Tren, Sepeda, Manfaat, Visualisasi, Data, Track ]
 desc: "Data Track Sepeda dari aplikasi Strava dapat diunduh menjadi data spasial berformat gpx. Data tersebut selanjutnya dapat diolah menggunakan QGIS dan divisualisasikan menjadi WebGIS Data Track/Rute Sepeda dengan memanfaatkan library Leaflet JS. Contoh bentuk visualisasinya adalah Moving Marker, Slithering Snake, Marching Ants."
