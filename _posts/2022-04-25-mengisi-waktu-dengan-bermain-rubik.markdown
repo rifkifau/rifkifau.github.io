@@ -4,7 +4,7 @@ title:  "Mengisi Waktu dengan Bermain Rubik"
 date:   2022-04-25
 tags:   [ Waktu, Hiburan, Bermain, Belajar, Rubik ]
 desc: "Setelah dipelajari, terutama terkait konsep center, edge, dan cornernya, akhirnya bisa juga. Hanya saja, ada beberapa kondisi, terutama di rubik 4x4 ke atas, yang tidak bisa  diselesaikan dengan rumus 3x3. Kalau dari tutorial-tutorial yang ane pelajari istilahnya adalah parity."
-keywords: Jenuh, Waktu, Hiburan, Bermain, Belajar, Rubik, 3x3, 4x4, 5x5
+keywords: Jenuh, Waktu, Hiburan, Bermain, Belajar, Rubik, 2x2, 3x3, 4x4, 5x5
 image: rubik-magnetic-stickerless.jpg
 ---
 <p class="intro"><span class="dropcap">S</span>alah satu kesibukan ane di awal-awal bulan Ramadhan (1443 H) kemarin adalah memikirkan kegiatan apa yang menarik untuk dilakukan. Bukan terkait kegiatan hunting takjil, tapi lebih kearah kegiatan apa yang dapat mengisi waktu luang. Atau setidaknya bisa melepas kejenuhan. Haha, opo sih. Kalau biasanya sih buka game di HP, tapi entah kenapa pengennya yang nggak mantengin layar. Udah nyetok minyak goreng (eh TTS maksudnya) juga mulai males ngisinya. Males megang pulpen, males ngeraut pensil, males nulis.
@@ -20,6 +20,9 @@ Setelah kesana-kemari membaca review dan melihat video Lesti (haha, video review
 Kalau ada yang tertarik beli, ane kasih bocoran juga nih terkait isi boksnya:
   <ul>
     <li>
+      rubik
+    </li>
+    <li>
       alas/cube stand warna random
     </li>
     <li>
@@ -29,7 +32,7 @@ Kalau ada yang tertarik beli, ane kasih bocoran juga nih terkait isi boksnya:
 </p>
 ![Translate-Panduan](../../images/rubik/Google-Translate-Tutorial-Rubik-Moyu-Meilong-M-Cube-Magnetic-Stickerless.jpg)
 <p>
-Terkait penyelesaian rubik, ane sebenarnya sudah lumayan jago. Di 3x3 aja tapi. Pas nyoba yang 2x2, 4x4, dan 5x5 tanpa lihat tutorial, puyeng dan akhirnya menyerah. Setelah dipelajari, terutama terkait konsep center, edge, dan cornernya, akhirnya bisa juga. Hanya saja, ada beberapa kondisi, terutama di rubik 4x4 ke atas, yang tidak bisa diselesaikan dengan rumus 3x3. Kalau dari tutorial-tutorial yang ane pelajari istilahnya adalah parity. 
+Terkait penyelesaian rubik, ane sebenarnya sudah lumayan jago. Di 3x3 aja tapi. Pas nyoba yang 2x2, 4x4, dan 5x5 tanpa lihat tutorial dulu, puyeng dan akhirnya menyerah. Setelah dipelajari, terutama terkait konsep center, edge, dan cornernya, alhasil bisa juga. Hanya saja, ada beberapa kondisi, terutama di rubik 4x4 ke atas, yang tidak bisa diselesaikan dengan rumus 3x3. Kalau dari tutorial-tutorial yang ane pelajari istilahnya adalah parity. 
 </p>
 <p>
 Sejauh ini ada dua jenis parity yang ane masih belum hafal algoritmanya, yakni parity OLL (Oriented Last Layer) di rubik 4x4 dan edge parity di rubik 5x5.
