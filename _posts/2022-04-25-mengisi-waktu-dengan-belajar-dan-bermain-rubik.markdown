@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mengisi Waktu dengan Bermain Rubik"
+title:  "Mengisi Waktu dengan Belajar dan Bermain Rubik"
 date:   2022-04-25
 tags:   [ Waktu, Hiburan, Bermain, Belajar, Rubik ]
 desc: "Setelah dipelajari, terutama terkait konsep center, edge, dan cornernya, akhirnya bisa juga. Hanya saja, ada beberapa kondisi, terutama di rubik 4x4 ke atas, yang tidak bisa  diselesaikan dengan rumus 3x3. Kalau dari tutorial-tutorial yang ane pelajari istilahnya adalah parity."
