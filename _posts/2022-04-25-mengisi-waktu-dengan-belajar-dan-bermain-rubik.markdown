@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Mengisi Waktu dengan Belajar dan Bermain Rubik"
+subtitle: "(2x2, 3x3, 4x4, dan 5x5)"
 date:   2022-04-25
 tags:   [ Waktu, Hiburan, Bermain, Belajar, Rubik ]
 desc: "Setelah dipelajari, terutama terkait konsep center, edge, dan cornernya, akhirnya bisa juga. Hanya saja, ada beberapa kondisi, terutama di rubik 4x4 ke atas, yang tidak bisa  diselesaikan dengan rumus 3x3. Kalau dari tutorial-tutorial yang ane pelajari istilahnya adalah parity."
@@ -31,6 +32,9 @@ Kalau ada yang tertarik beli, ane kasih bocoran juga nih terkait isi boksnya:
    </ul>
 </p>
 ![Translate-Panduan](../../images/rubik/Google-Translate-Tutorial-Rubik-Moyu-Meilong-M-Cube-Magnetic-Stickerless.jpg)
+<sup>
+Gambar di atas adalah lembaran tutorial yang sudah diterjemahkan. Sekalian nyobain Google Translate dengan photo.
+</sup>
 <p>
 Terkait penyelesaian rubik, ane sebenarnya sudah lumayan jago. Di 3x3 aja tapi. Pas nyoba yang 2x2, 4x4, dan 5x5 tanpa lihat tutorial dulu, puyeng dan akhirnya menyerah. Setelah dipelajari, terutama terkait konsep center, edge, dan cornernya, alhasil bisa juga. Hanya saja, ada beberapa kondisi, terutama di rubik 4x4 ke atas, yang tidak bisa diselesaikan dengan rumus 3x3. Kalau dari tutorial-tutorial yang ane pelajari istilahnya adalah parity. 
 </p>
