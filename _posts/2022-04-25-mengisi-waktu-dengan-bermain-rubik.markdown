@@ -5,7 +5,7 @@ date:   2022-04-25
 tags:   [ Waktu, Hiburan, Bermain, Belajar, Rubik ]
 desc: "Setelah dipelajari, terutama terkait konsep center, edge, dan cornernya, akhirnya bisa juga. Hanya saja, ada beberapa kondisi, terutama di rubik 4x4 ke atas, yang tidak bisa  diselesaikan dengan rumus 3x3. Kalau dari tutorial-tutorial yang ane pelajari istilahnya adalah parity."
 keywords: Jenuh, Waktu, Hiburan, Bermain, Belajar, Rubik, 3x3, 4x4, 5x5
-image: manfaat-sepedaan.jpg
+image: rubik-magnetic-stickerless.jpg
 ---
 <p class="intro"><span class="dropcap">S</span>alah satu kesibukan ane di awal-awal bulan Ramadhan (1443 H) kemarin adalah memikirkan kegiatan apa yang menarik untuk dilakukan. Bukan terkait kegiatan hunting takjil, tapi lebih kearah kegiatan apa yang dapat mengisi waktu luang. Atau setidaknya bisa melepas kejenuhan. Haha, opo sih. Kalau biasanya sih buka game di HP, tapi entah kenapa pengennya yang nggak mantengin layar. Udah nyetok minyak goreng (eh TTS maksudnya) juga mulai males ngisinya. Males megang ballpoin, males ngeraut pensil, males nulis.
 </p>
@@ -23,7 +23,7 @@ Kalau ada yang tertarik beli, ane kasih bocoran juga nih terkait isi boxnya:
       alas/cube stand warna random
     </li>
     <li>
-      aksesoris (obeng + lembaran totorial berbahasa Chinese)
+      aksesoris (obeng + lembaran tutorial berbahasa Chinese)
     </li>
    </ul>
 </p>
