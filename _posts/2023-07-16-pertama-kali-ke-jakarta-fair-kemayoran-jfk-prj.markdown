@@ -19,9 +19,11 @@ Kami berangkat ke JIEXPO Kemayoran menggunakan Trans Jakarta (TJ), dengan titik 
 </p>
 ![fasilitas-halte-gor-soemantri-toilet-mushola](../../images/jakarta-fair/fasilitas-halte-gor-soemantri-toilet-mushola.jpg)
 <sup style="text-align: center;">Fasilitas Umum Halte Gor Soemantri</sup>
+<hr>
 <p>
 Oh ya, berdasarkan berita di <a href="[https://www.instagram.com/jakartafairid](https://transjakarta.co.id/transjakarta-sediakan-empat-rute-ke-prj/)" title="laman transjakarta" target="_blank">laman transjakarta</a>, rute yang langsung ke Jakarta International Expo (JIExpo) Kemayoran memang disediakan oleh PT Transportasi Jakarta (Transjakarta) untuk memudahkan mobiltas pengunjung. Terdapat empat Rute PRJ yang melayani selama kegiatan Pekan Raya Jakarta. Adapun rute-rute yang dioperasikan antara lain adalah rute 2C (Balaikota- JIExpo), rute PRJ1 (PGC 1 – JIExpo Kemayoran), rute PRJ2 (Matraman Baru – JIExpo Kemayoran), dan rute PRJ3 (Pulo Gadung 1- JIExpo Kemayoran). Kemungkinan untuk acara Jakarta Fair tahun-tahun berikutnya akan ada hal yang serupa juga untuk mengurangi kemacetan kendaraan pribadi.
 </p>
+<hr>
 <p>
 Pintu masuk Jakarta Fair tidak jauh dari halte, jadi tidak usah khawatir bagi yang males jalan. Di pintu masuk, selain ada tempat scan barcode tiket, ada juga loket bagi yang mau beli tiket OTS. Catatan bagi kalian semua, perhatikan papan petunjuk dengan saksama, karena kami sempat masuk antrean beli tiket OTS, padahal sudah pegang file tiket. haha.
 </p>
