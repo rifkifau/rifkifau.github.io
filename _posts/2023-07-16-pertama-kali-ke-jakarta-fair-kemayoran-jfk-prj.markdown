@@ -7,7 +7,7 @@ desc: "Setelah lebih dari 5 tahun merantau di Jakarta dan belum pernah pernah sa
 keywords: PRJ, JFK, JIEXPO, Kamayoran, Jakarta, 2023, Ultah
 image: jakarta-fair-kemayoran-2023-pekan-raya-jakarta.jpg
 ---
-<p class="intro"><span class="dropcap">S</span>etelah lebih dari 5 tahun merantau di Jakarta dan belum pernah pernah sama sekali datang ke Jakarta Fair (Pekan Raya Jakarta - PRJ), hari ini, tanggal 16 Juni 2023 Ane mencoba untuk pertama kalinya. Bertepatan dengan hari Minggu, hari terakhir perhelatan Jakarta Fair Kemayoran (JFK) tahun 2023, Ane berangkat bersama teman (@yorialief). Tiket masuk (tanpa konser) kami beli secara online h-1 dengan harga 50k..
+<p class="intro"><span class="dropcap">S</span>etelah lebih dari 5 tahun merantau di Jakarta dan belum pernah pernah sama sekali datang ke Jakarta Fair (Pekan Raya Jakarta - PRJ), hari ini, tanggal 16 Juni 2023 Ane mencoba untuk pertama kalinya. Bertepatan dengan hari Minggu, hari terakhir perhelatan Jakarta Fair Kemayoran (JFK) tahun 2023, Ane berangkat bersama teman (<a href="https://www.instagram.com/yorialief" title="Instagram @yorialief" target="_blank">@yorialief</a>). Tiket masuk (tanpa konser) kami beli secara online h-1 dengan harga 50k..
 </p>
 <p>
 Biar ada sedikit gambaran terkait acara Jakarta Fair 2023 ini, pada saat h-1, selain beli tiket Ane juga coba follow akun IG @jakartafairid dan kepoin feed dan stories-nya. Ya, walaupun Jakarta Fair ini adalah agenda tahunan yang diadakan saat peringatan Hari Ulang Tahun Jakarta, tapi jujur saja Ane tidak banyak tahu isinya seperti apa. 
