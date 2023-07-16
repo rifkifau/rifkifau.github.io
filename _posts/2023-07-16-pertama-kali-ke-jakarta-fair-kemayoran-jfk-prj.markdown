@@ -21,7 +21,7 @@ Kami berangkat ke JIEXPO Kemayoran menggunakan Trans Jakarta (TJ), dengan titik 
 <sup style="text-align: center;">Fasilitas Umum Halte Gor Soemantri</sup>
 <hr>
 <p>
-Oh ya, berdasarkan berita di <a href="[https://www.instagram.com/jakartafairid](https://transjakarta.co.id/transjakarta-sediakan-empat-rute-ke-prj/)" title="laman transjakarta" target="_blank">laman transjakarta</a>, rute yang langsung ke Jakarta International Expo (JIExpo) Kemayoran memang disediakan oleh PT Transportasi Jakarta (Transjakarta) untuk memudahkan mobiltas pengunjung. Terdapat empat Rute PRJ yang melayani selama kegiatan Pekan Raya Jakarta. Adapun rute-rute yang dioperasikan antara lain adalah rute 2C (Balaikota- JIExpo), rute PRJ1 (PGC 1 – JIExpo Kemayoran), rute PRJ2 (Matraman Baru – JIExpo Kemayoran), dan rute PRJ3 (Pulo Gadung 1- JIExpo Kemayoran). Kemungkinan untuk acara Jakarta Fair tahun-tahun berikutnya akan ada hal yang serupa juga untuk mengurangi kemacetan kendaraan pribadi.
+Oh ya, berdasarkan berita di <a href="[https://www.instagram.com/jakartafairid](https://transjakarta.co.id/transjakarta-sediakan-empat-rute-ke-prj/)" title="laman transjakarta" target="_blank">laman transjakarta</a>, rute yang langsung ke Jakarta International Expo (JIExpo) Kemayoran memang disediakan oleh PT Transportasi Jakarta (Transjakarta) untuk memudahkan mobiltas pengunjung. Terdapat empat Rute PRJ yang melayani selama kegiatan Pekan Raya Jakarta. Adapun rute-rute yang dioperasikan antara lain adalah rute 2C (Balaikota- JIExpo), rute PRJ1 (PGC 1 – JIExpo Kemayoran), rute PRJ2 (Matraman Baru – JIExpo Kemayoran), dan rute PRJ3 (Pulo Gadung 1- JIExpo Kemayoran). Kemungkinan untuk acara Jakarta Fair tahun-tahun berikutnya akan ada hal yang serupa juga untuk mempermudah sekaligus mengurangi kemacetan kendaraan pribadi.
 </p>
 <hr>
 <p>
@@ -30,7 +30,7 @@ Pintu masuk Jakarta Fair tidak jauh dari halte, jadi tidak usah khawatir bagi ya
 ![pintu-masuk-jakarta-fair-kemayoran-2023-pekan-raya-jakarta](../../images/jakarta-fair/pintu-masuk-jakarta-fair-kemayoran-2023-pekan-raya-jakarta.jpg)
 <sup style="text-align: center;">Pintu Masuk Jakarta Fair Kemayoran 2023</sup>
 <p>
-Setelah scan barcode, kami dikasih selembar kertas berisikan 16 potongan voucher yang bisa ditukar di booth-booth yang sudah ditentukan. Ada yang bisa langsung bisa ditukar dengan produk, ada yang untuk menggunakan vouchernya harus beli produk dengan nominal tertentu. 
+Setelah scan barcode, kami dikasih selembar kertas berisikan 16 potongan voucher yang bisa ditukar di booth-booth yang sudah ditentukan. Ada yang bisa langsung ditukar dengan produk, ada juga yang untuk menggunakan vouchernya harus beli produk dengan nominal tertentu terlebih dahulu. 
 </p>
 ![beberapa-booth-jakarta-fair-jiexpo-kemayoran-2023](../../images/jakarta-fair/beberapa-booth-jakarta-fair-jiexpo-kemayoran-2023.jpg)
 <sup style="text-align: center;">Beberapa Booth Jakarta Fair Kemayoran 2023</sup>
@@ -40,12 +40,12 @@ Sebelum memulai ekplorasi Jakarta Fair, kami beli dulu makanan pengganjal perut.
 ![fasilitas-tempat-sholat-jakarta-fair-kemayoran-jfk-prj-2023](../../images/jakarta-fair/fasilitas-tempat-sholat-jakarta-fair-kemayoran-jfk-prj-2023.jpg)
 <sup style="text-align: center;">Mushola Jakarta Fair Kemayoran 2023</sup>
 <p>
-Terkait fasilitas vital, seperti toilet, area kantin, dan toilet, tidak perlu dikhawatirkan, karena memang lumayan tersebar dibeberapa titik. Kalau tidak nemu, bisa langsung tanya panitia atau petugasnya saja yang bisa dibilang tersebar juga.
+Terkait fasilitas vital, seperti toilet, area kantin, dan mushola, tidak perlu dikhawatirkan, karena memang lumayan tersebar di beberapa titik. Kalau tidak nemu, bisa langsung tanya panitia atau petugasnya saja (yang bisa dibilang tersebar juga).
 </p>
 ![area-kantin-tempat-makan-jfk-prj-jakarta-2023](../../images/jakarta-fair/area-kantin-tempat-makan-jfk-prj-jakarta-2023.jpg)
 <sup style="text-align: center;">Area Kantin Jakarta Fair Kemayoran 2023</sup>
 <p>
-Perjalanan pulang menggunakan Trans Jakarta kembali, dengan titik awal halte JIEXPO Kemayoran menggunakan bis PRJ 2. Selanjutnya turun di halte Matraman 1, dan jalan ke halte Matraman 2 untuk melanjutkan dengan bis 4. Sebelum tiba di tujuan akhir halte Gor Soemantri, kami transit lagi menggunakan bis 6 di halte Dukuh Atas 2. Oh ya, Halte Trans Jakarta Dukuh Atas 2 ini berada di dekat Stasiun LRT Dukuh Atas.
+Perjalanan pulang menggunakan Trans Jakarta lagi, dengan titik awal halte JIEXPO Kemayoran menggunakan bis rute PRJ 2. Selanjutnya turun di halte Matraman 1, dan jalan ke halte Matraman 2 untuk melanjutkan dengan bis 4. Sebelum tiba di tujuan akhir halte Gor Soemantri, kami transit lagi menggunakan bis 6 di halte Dukuh Atas 2. Oh ya, Halte Trans Jakarta Dukuh Atas 2 ini berada di dekat Stasiun LRT Dukuh Atas.
 </p>
 ![fasilitas-mushola-halte-trans-jakarta-dukuh-atas-2](../../images/jakarta-fair/fasilitas-mushola-halte-trans-jakarta-dukuh-atas-2.jpg)
 <sup style="text-align: center;">Fasilitas Umum Halte Trans Jakarta Dukuh Atas 2</sup>
