@@ -3,7 +3,7 @@ layout: post
 title:  "Pengalaman Pertama Kali Masuk ke Kedutaan Besar (Kedubes) Belanda"
 date:   2023-08-05
 tags:   [ Kedutaan Besar, Kedubes, Erasmus Huis, Belanda, Dutch Embassy Indonesia ]
-desc: "Tanggal 9 Juni sampai 13 Agustus 2023 Erasmus Huis Jakarta mengadakan pameran seni "Litter Critters" karya Arike Gill. Dimana Erasmus Huis, apa itu Litter Critters, siapa itu Arike Gill? Mari kita bahas berdasarkan pemahaman Ane pribadi (yang baru tahu juga sebenarnya, jadi maaf dan mohon koreksinya kalau salah)..."
+desc: "Tanggal 9 Juni sampai 13 Agustus 2023 Erasmus Huis Jakarta mengadakan pameran seni 'Litter Critters' karya Arike Gill. Dimana Erasmus Huis, apa itu Litter Critters, siapa itu Arike Gill? Mari kita bahas berdasarkan pemahaman Ane pribadi (yang baru tahu juga sebenarnya, jadi maaf dan mohon koreksinya kalau salah)..."
 keywords: Kedutaan Besar, Kedubes, Erasmus Huis, Belanda, Pengalaman
 image: perpustakaan-Erasmus-Huis-pusat-kebudayaan-kedubes-belanda.jpg
 ---
